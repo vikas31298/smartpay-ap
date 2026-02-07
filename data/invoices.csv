@@ -1,0 +1,1514 @@
+invoice_id,invoice_date,vendor_id,vendor_name,currency,line_item_number,item_code,description,quantity,unit_price,line_total
+INV00001,2024-01-13,V004,Industrial Solutions GmbH,USD,1,ITM0032,Plastic Housings - ABS,18,370.87,6675.66
+INV00001,2024-01-13,V004,Industrial Solutions GmbH,USD,2,ITM0087,Seals - Mechanical,12,299.34,3592.08
+INV00001,2024-01-13,V004,Industrial Solutions GmbH,USD,3,ITM0005,Industrial Bearings - Heavy Duty,12,117.13,1405.56
+INV00001,2024-01-13,V004,Industrial Solutions GmbH,USD,4,ITM0065,Gearboxes - Planetary,4,285.01,1140.04
+INV00001,2024-01-13,V004,Industrial Solutions GmbH,USD,5,ITM0092,Seals - Mechanical,54,118.02,6373.08
+INV00002,2024-05-22,V019,Iota Supplies,CAD,1,ITM0098,Copper Wire - 12 AWG,90,217.08,19537.2
+INV00002,2024-05-22,V019,Iota Supplies,CAD,2,ITM0036,Rubber Gaskets - High Temp,28,479.03,13412.84
+INV00002,2024-05-22,V019,Iota Supplies,CAD,3,ITM0044,Hydraulic Fittings - Standard,12,196.16,2353.92
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,1,ITM0034,Steel Sheets - Grade A,94,235.12,22101.28
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,2,ITM0016,Lubricants - Synthetic,11,280.5,3085.5
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,3,ITM0081,Gearboxes - Planetary,47,292.9,13766.3
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,4,ITM0091,Electronic Components - PCB,6,334.02,2004.12
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,5,ITM0099,Sensor Modules - Temperature,11,429.11,4720.21
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,6,ITM0013,Lubricants - Synthetic,36,232.17,8358.12
+INV00003,2024-06-25,V012,Sigma Steel Works,GBP,7,ITM0047,Copper Wire - 12 AWG,48,184.08,8835.84
+INV00004,2024-12-25,V009,Prime Resources LLC,EUR,1,ITM0078,Copper Wire - 12 AWG,69,367.27,25341.63
+INV00004,2024-12-25,V009,Prime Resources LLC,EUR,2,ITM0021,Insulation Material - Thermal,49,142.27,6971.23
+INV00004,2024-12-25,V009,Prime Resources LLC,EUR,3,ITM0082,Seals - Mechanical,29,345.46,10018.34
+INV00005,2024-04-27,V002,Global Materials Corp,USD,1,ITM0041,Lubricants - Synthetic,35,42.43,1485.05
+INV00005,2024-04-27,V002,Global Materials Corp,USD,2,ITM0073,Control Valves - Pneumatic,28,331.16,9272.48
+INV00005,2024-04-27,V002,Global Materials Corp,USD,3,ITM0051,Insulation Material - Thermal,19,139.79,2656.01
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,1,ITM0034,Pumps - Centrifugal,55,449.93,24746.15
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,2,ITM0052,Filter Elements - HEPA,29,498.69,14462.01
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,3,ITM0018,Cables - Industrial Grade,64,54.55,3491.2
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,4,ITM0007,Hydraulic Fittings - Standard,20,317.45,6349.0
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,5,ITM0088,Fasteners - Stainless Steel,77,41.13,3167.01
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,6,ITM0049,Gearboxes - Planetary,60,269.27,16156.2
+INV00006,2024-10-14,V008,Atlas Manufacturing,USD,7,ITM0071,Industrial Bearings - Heavy Duty,88,363.15,31957.2
+INV00007,2024-05-16,V018,Theta Instruments,USD,1,ITM0015,Sensor Modules - Temperature,56,87.5,4900.0
+INV00007,2024-05-16,V018,Theta Instruments,USD,2,ITM0001,Precision Motors - DC 24V,65,383.36,24918.4
+INV00007,2024-05-16,V018,Theta Instruments,USD,3,ITM0065,Hydraulic Fittings - Standard,81,156.24,12655.44
+INV00007,2024-05-16,V018,Theta Instruments,USD,4,ITM0082,Cables - Industrial Grade,78,107.47,8382.66
+INV00007,2024-05-16,V018,Theta Instruments,USD,5,ITM0048,Copper Wire - 12 AWG,70,477.21,33404.7
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,1,ITM0042,Power Supplies - 500W,3,64.82,194.46
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,2,ITM0047,Sensor Modules - Temperature,31,38.38,1189.78
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,3,ITM0073,Electronic Components - PCB,11,368.63,4054.93
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,4,ITM0009,Seals - Mechanical,99,71.62,7090.38
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,5,ITM0085,Power Supplies - 500W,71,90.91,6454.61
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,6,ITM0068,Gearboxes - Planetary,55,482.54,26539.7
+INV00008,2024-01-01,V017,Zeta Packaging,JPY,7,ITM0070,Aluminum Extrusions - Custom,92,162.74,14972.08
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,1,ITM0058,Hydraulic Fittings - Standard,32,120.1,3843.2
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,2,ITM0044,Industrial Bearings - Heavy Duty,76,281.42,21387.92
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,3,ITM0076,Plastic Housings - ABS,1,44.79,44.79
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,4,ITM0081,Steel Sheets - Grade A,30,43.03,1290.9
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,5,ITM0005,Control Valves - Pneumatic,10,261.94,2619.4
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,6,ITM0036,Power Supplies - 500W,28,274.22,7678.16
+INV00009,2024-08-12,V012,Sigma Steel Works,EUR,7,ITM0093,Pumps - Centrifugal,74,241.61,17879.14
+INV00010,2024-07-27,V016,Epsilon Motors,GBP,1,ITM0013,Hydraulic Fittings - Standard,85,221.22,18803.7
+INV00010,2024-07-27,V016,Epsilon Motors,GBP,2,ITM0055,Fasteners - Stainless Steel,60,433.28,25996.8
+INV00010,2024-07-27,V016,Epsilon Motors,GBP,3,ITM0007,Hydraulic Fittings - Standard,8,207.28,1658.24
+INV00010,2024-07-27,V016,Epsilon Motors,GBP,4,ITM0044,Hydraulic Fittings - Standard,32,103.88,3324.16
+INV00011,2024-08-17,V018,Theta Instruments,USD,1,ITM0055,Copper Wire - 12 AWG,36,236.69,8520.84
+INV00011,2024-08-17,V018,Theta Instruments,USD,2,ITM0010,Insulation Material - Thermal,71,57.98,4116.58
+INV00011,2024-08-17,V018,Theta Instruments,USD,3,ITM0084,Seals - Mechanical,2,484.81,969.62
+INV00011,2024-08-17,V018,Theta Instruments,USD,4,ITM0097,Plastic Housings - ABS,22,209.14,4601.08
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,1,ITM0008,Copper Wire - 12 AWG,49,11.06,541.94
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,2,ITM0050,Precision Motors - DC 24V,59,149.77,8836.43
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,3,ITM0090,Seals - Mechanical,85,362.02,30771.7
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,4,ITM0020,Aluminum Extrusions - Custom,38,116.67,4433.46
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,5,ITM0008,Pumps - Centrifugal,95,275.68,26189.6
+INV00012,2024-04-19,V016,Epsilon Motors,CAD,6,ITM0096,Control Valves - Pneumatic,8,34.57,276.56
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,1,ITM0021,Steel Sheets - Grade A,66,49.25,3250.5
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,2,ITM0024,Electronic Components - PCB,77,43.3,3334.1
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,3,ITM0031,Lubricants - Synthetic,16,471.38,7542.08
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,4,ITM0073,Plastic Housings - ABS,75,301.31,22598.25
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,5,ITM0080,Electronic Components - PCB,54,332.11,17933.94
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,6,ITM0073,Cables - Industrial Grade,41,468.01,19188.41
+INV00013,2024-09-14,V016,Epsilon Motors,JPY,7,ITM0027,Control Valves - Pneumatic,31,140.15,4344.65
+INV00014,2024-12-09,V005,Pacific Trading Co,USD,1,ITM0059,Control Valves - Pneumatic,97,468.51,45445.47
+INV00014,2024-12-09,V005,Pacific Trading Co,USD,2,ITM0002,Insulation Material - Thermal,80,499.24,39939.2
+INV00014,2024-12-09,V005,Pacific Trading Co,USD,3,ITM0013,Electronic Components - PCB,69,114.45,7897.05
+INV00014,2024-12-09,V005,Pacific Trading Co,USD,4,ITM0034,Rubber Gaskets - High Temp,45,441.62,19872.9
+INV00014,2024-12-09,V005,Pacific Trading Co,USD,5,ITM0032,Filter Elements - HEPA,37,87.3,3230.1
+INV00015,2024-12-26,V018,Theta Instruments,USD,1,ITM0079,Cables - Industrial Grade,2,337.25,674.5
+INV00015,2024-12-26,V018,Theta Instruments,USD,2,ITM0071,Sensor Modules - Temperature,85,60.76,5164.6
+INV00015,2024-12-26,V018,Theta Instruments,USD,3,ITM0018,Precision Motors - DC 24V,15,445.96,6689.4
+INV00015,2024-12-26,V018,Theta Instruments,USD,4,ITM0096,Seals - Mechanical,20,143.45,2869.0
+INV00015,2024-12-26,V018,Theta Instruments,USD,5,ITM0078,Aluminum Extrusions - Custom,92,178.01,16376.92
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,1,ITM0033,Steel Sheets - Grade A,12,320.8,3849.6
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,2,ITM0036,Steel Sheets - Grade A,1,173.44,173.44
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,3,ITM0017,Precision Motors - DC 24V,21,373.2,7837.2
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,4,ITM0071,Fasteners - Stainless Steel,72,14.74,1061.28
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,5,ITM0010,Rubber Gaskets - High Temp,70,27.65,1935.5
+INV00016,2024-09-15,V009,Prime Resources LLC,USD,6,ITM0048,Pumps - Centrifugal,71,82.57,5862.47
+INV00017,2024-01-22,V005,Pacific Trading Co,USD,1,ITM0047,Steel Sheets - Grade A,46,112.94,5195.24
+INV00017,2024-01-22,V005,Pacific Trading Co,USD,2,ITM0032,Hydraulic Fittings - Standard,46,392.26,18043.96
+INV00017,2024-01-22,V005,Pacific Trading Co,USD,3,ITM0053,Gearboxes - Planetary,96,85.73,8230.08
+INV00017,2024-01-22,V005,Pacific Trading Co,USD,4,ITM0031,Copper Wire - 12 AWG,23,441.89,10163.47
+INV00017,2024-01-22,V005,Pacific Trading Co,USD,5,ITM0004,Copper Wire - 12 AWG,95,463.0,43985.0
+INV00018,2024-12-08,V014,Beta Polymers Inc,EUR,1,ITM0035,Copper Wire - 12 AWG,90,62.97,5667.3
+INV00018,2024-12-08,V014,Beta Polymers Inc,EUR,2,ITM0005,Power Supplies - 500W,29,107.79,3125.91
+INV00018,2024-12-08,V014,Beta Polymers Inc,EUR,3,ITM0059,Filter Elements - HEPA,40,412.06,16482.4
+INV00018,2024-12-08,V014,Beta Polymers Inc,EUR,4,ITM0030,Plastic Housings - ABS,4,333.42,1333.68
+INV00019,2024-06-17,V013,Alpha Logistics,EUR,1,ITM0009,Precision Motors - DC 24V,45,324.33,14594.85
+INV00019,2024-06-17,V013,Alpha Logistics,EUR,2,ITM0052,Seals - Mechanical,43,470.23,20219.89
+INV00019,2024-06-17,V013,Alpha Logistics,EUR,3,ITM0015,Precision Motors - DC 24V,23,294.49,6773.27
+INV00019,2024-06-17,V013,Alpha Logistics,EUR,4,ITM0034,Steel Sheets - Grade A,14,302.32,4232.48
+INV00019,2024-06-17,V013,Alpha Logistics,EUR,5,ITM0045,Control Valves - Pneumatic,56,307.04,17194.24
+INV00020,2024-02-29,V017,Zeta Packaging,USD,1,ITM0074,Aluminum Extrusions - Custom,33,31.75,1047.75
+INV00020,2024-02-29,V017,Zeta Packaging,USD,2,ITM0056,Industrial Bearings - Heavy Duty,67,463.53,31056.51
+INV00020,2024-02-29,V017,Zeta Packaging,USD,3,ITM0069,Aluminum Extrusions - Custom,47,221.34,10402.98
+INV00020,2024-02-29,V017,Zeta Packaging,USD,4,ITM0086,Control Valves - Pneumatic,80,163.82,13105.6
+INV00020,2024-02-29,V017,Zeta Packaging,USD,5,ITM0016,Sensor Modules - Temperature,65,161.55,10500.75
+INV00020,2024-02-29,V017,Zeta Packaging,USD,6,ITM0053,Control Valves - Pneumatic,52,351.63,18284.76
+INV00021,2024-03-06,V018,Theta Instruments,EUR,1,ITM0054,Lubricants - Synthetic,87,376.59,32763.33
+INV00021,2024-03-06,V018,Theta Instruments,EUR,2,ITM0023,Gearboxes - Planetary,73,157.47,11495.31
+INV00021,2024-03-06,V018,Theta Instruments,EUR,3,ITM0071,Industrial Bearings - Heavy Duty,39,150.59,5873.01
+INV00021,2024-03-06,V018,Theta Instruments,EUR,4,ITM0056,Pumps - Centrifugal,78,330.81,25803.18
+INV00022,2024-08-14,V015,Gamma Textiles,USD,1,ITM0087,Aluminum Extrusions - Custom,66,241.86,15962.76
+INV00022,2024-08-14,V015,Gamma Textiles,USD,2,ITM0095,Copper Wire - 12 AWG,85,51.55,4381.75
+INV00022,2024-08-14,V015,Gamma Textiles,USD,3,ITM0066,Gearboxes - Planetary,43,55.76,2397.68
+INV00022,2024-08-14,V015,Gamma Textiles,USD,4,ITM0097,Plastic Housings - ABS,87,162.11,14103.57
+INV00022,2024-08-14,V015,Gamma Textiles,USD,5,ITM0026,Rubber Gaskets - High Temp,4,32.64,130.56
+INV00022,2024-08-14,V015,Gamma Textiles,USD,6,ITM0061,Gearboxes - Planetary,99,45.69,4523.31
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,1,ITM0025,Lubricants - Synthetic,64,205.83,13173.12
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,2,ITM0019,Industrial Bearings - Heavy Duty,97,431.62,41867.14
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,3,ITM0014,Fasteners - Stainless Steel,29,96.18,2789.22
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,4,ITM0090,Cables - Industrial Grade,60,34.61,2076.6
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,5,ITM0032,Hydraulic Fittings - Standard,59,75.34,4445.06
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,6,ITM0060,Cables - Industrial Grade,72,301.77,21727.44
+INV00023,2024-11-18,V014,Beta Polymers Inc,USD,7,ITM0097,Insulation Material - Thermal,79,409.35,32338.65
+INV00024,2024-08-06,V017,Zeta Packaging,USD,1,ITM0058,Copper Wire - 12 AWG,96,432.13,41484.48
+INV00024,2024-08-06,V017,Zeta Packaging,USD,2,ITM0058,Precision Motors - DC 24V,97,131.15,12721.55
+INV00024,2024-08-06,V017,Zeta Packaging,USD,3,ITM0082,Precision Motors - DC 24V,99,391.06,38714.94
+INV00024,2024-08-06,V017,Zeta Packaging,USD,4,ITM0063,Plastic Housings - ABS,36,225.54,8119.44
+INV00024,2024-08-06,V017,Zeta Packaging,USD,5,ITM0092,Sensor Modules - Temperature,31,143.14,4437.34
+INV00024,2024-08-06,V017,Zeta Packaging,USD,6,ITM0041,Seals - Mechanical,11,77.8,855.8
+INV00024,2024-08-06,V017,Zeta Packaging,USD,7,ITM0030,Lubricants - Synthetic,89,84.87,7553.43
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,1,ITM0053,Control Valves - Pneumatic,70,238.3,16681.0
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,2,ITM0008,Aluminum Extrusions - Custom,54,200.84,10845.36
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,3,ITM0099,Pumps - Centrifugal,90,19.57,1761.3
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,4,ITM0098,Pumps - Centrifugal,49,243.72,11942.28
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,5,ITM0046,Sensor Modules - Temperature,97,201.09,19505.73
+INV00025,2024-02-02,V007,Nordic Parts AB,EUR,6,ITM0054,Seals - Mechanical,96,369.97,35517.12
+INV00026,2024-04-22,V020,Kappa Industries,GBP,1,ITM0029,Precision Motors - DC 24V,56,247.96,13885.76
+INV00026,2024-04-22,V020,Kappa Industries,GBP,2,ITM0050,Control Valves - Pneumatic,86,342.78,29479.08
+INV00026,2024-04-22,V020,Kappa Industries,GBP,3,ITM0052,Copper Wire - 12 AWG,60,460.58,27634.8
+INV00026,2024-04-22,V020,Kappa Industries,GBP,4,ITM0080,Seals - Mechanical,4,454.4,1817.6
+INV00026,2024-04-22,V020,Kappa Industries,GBP,5,ITM0076,Pumps - Centrifugal,85,23.28,1978.8
+INV00026,2024-04-22,V020,Kappa Industries,GBP,6,ITM0083,Fasteners - Stainless Steel,18,434.76,7825.68
+INV00027,2024-01-26,V006,Euro Components SA,USD,1,ITM0049,Control Valves - Pneumatic,28,232.8,6518.4
+INV00027,2024-01-26,V006,Euro Components SA,USD,2,ITM0044,Lubricants - Synthetic,36,378.48,13625.28
+INV00027,2024-01-26,V006,Euro Components SA,USD,3,ITM0054,Precision Motors - DC 24V,11,240.45,2644.95
+INV00027,2024-01-26,V006,Euro Components SA,USD,4,ITM0096,Seals - Mechanical,7,499.95,3499.65
+INV00027,2024-01-26,V006,Euro Components SA,USD,5,ITM0045,Plastic Housings - ABS,84,43.62,3664.08
+INV00028,2024-01-16,V002,Global Materials Corp,EUR,1,ITM0026,Industrial Bearings - Heavy Duty,80,84.67,6773.6
+INV00028,2024-01-16,V002,Global Materials Corp,EUR,2,ITM0017,Power Supplies - 500W,86,66.05,5680.3
+INV00028,2024-01-16,V002,Global Materials Corp,EUR,3,ITM0028,Insulation Material - Thermal,90,135.56,12200.4
+INV00028,2024-01-16,V002,Global Materials Corp,EUR,4,ITM0048,Copper Wire - 12 AWG,78,307.55,23988.9
+INV00029,2024-03-24,V004,Industrial Solutions GmbH,EUR,1,ITM0014,Pumps - Centrifugal,4,465.15,1860.6
+INV00029,2024-03-24,V004,Industrial Solutions GmbH,EUR,2,ITM0074,Lubricants - Synthetic,51,471.32,24037.32
+INV00029,2024-03-24,V004,Industrial Solutions GmbH,EUR,3,ITM0026,Electronic Components - PCB,76,348.4,26478.4
+INV00029,2024-03-24,V004,Industrial Solutions GmbH,EUR,4,ITM0081,Plastic Housings - ABS,14,351.62,4922.68
+INV00029,2024-03-24,V004,Industrial Solutions GmbH,EUR,5,ITM0039,Gearboxes - Planetary,16,400.15,6402.4
+INV00030,2024-01-22,V019,Iota Supplies,USD,1,ITM0069,Fasteners - Stainless Steel,85,191.58,16284.3
+INV00030,2024-01-22,V019,Iota Supplies,USD,2,ITM0065,Control Valves - Pneumatic,2,426.29,852.58
+INV00030,2024-01-22,V019,Iota Supplies,USD,3,ITM0063,Hydraulic Fittings - Standard,56,480.79,26924.24
+INV00030,2024-01-22,V019,Iota Supplies,USD,4,ITM0082,Insulation Material - Thermal,91,84.97,7732.27
+INV00030,2024-01-22,V019,Iota Supplies,USD,5,ITM0023,Cables - Industrial Grade,84,142.34,11956.56
+INV00031,2024-09-04,V018,Theta Instruments,EUR,1,ITM0056,Pumps - Centrifugal,35,167.93,5877.55
+INV00031,2024-09-04,V018,Theta Instruments,EUR,2,ITM0032,Electronic Components - PCB,36,442.0,15912.0
+INV00031,2024-09-04,V018,Theta Instruments,EUR,3,ITM0032,Insulation Material - Thermal,73,309.06,22561.38
+INV00031,2024-09-04,V018,Theta Instruments,EUR,4,ITM0049,Control Valves - Pneumatic,4,252.21,1008.84
+INV00031,2024-09-04,V018,Theta Instruments,EUR,5,ITM0042,Copper Wire - 12 AWG,63,113.94,7178.22
+INV00031,2024-09-04,V018,Theta Instruments,EUR,6,ITM0034,Control Valves - Pneumatic,36,441.36,15888.96
+INV00032,2024-10-11,V009,Prime Resources LLC,USD,1,ITM0067,Aluminum Extrusions - Custom,11,128.26,1410.86
+INV00032,2024-10-11,V009,Prime Resources LLC,USD,2,ITM0053,Power Supplies - 500W,72,381.5,27468.0
+INV00032,2024-10-11,V009,Prime Resources LLC,USD,3,ITM0089,Power Supplies - 500W,83,358.8,29780.4
+INV00033,2024-01-09,V015,Gamma Textiles,USD,1,ITM0038,Plastic Housings - ABS,52,348.98,18146.96
+INV00033,2024-01-09,V015,Gamma Textiles,USD,2,ITM0040,Pumps - Centrifugal,48,241.9,11611.2
+INV00033,2024-01-09,V015,Gamma Textiles,USD,3,ITM0068,Filter Elements - HEPA,55,498.35,27409.25
+INV00034,2024-06-18,V018,Theta Instruments,CAD,1,ITM0090,Insulation Material - Thermal,35,160.25,5608.75
+INV00034,2024-06-18,V018,Theta Instruments,CAD,2,ITM0030,Hydraulic Fittings - Standard,93,104.37,9706.41
+INV00034,2024-06-18,V018,Theta Instruments,CAD,3,ITM0016,Seals - Mechanical,98,348.18,34121.64
+INV00034,2024-06-18,V018,Theta Instruments,CAD,4,ITM0025,Aluminum Extrusions - Custom,95,247.26,23489.7
+INV00034,2024-06-18,V018,Theta Instruments,CAD,5,ITM0093,Pumps - Centrifugal,98,267.07,26172.86
+INV00035,2024-02-21,V010,Delta Electronics,CAD,1,ITM0038,Plastic Housings - ABS,47,97.93,4602.71
+INV00035,2024-02-21,V010,Delta Electronics,CAD,2,ITM0002,Seals - Mechanical,17,144.41,2454.97
+INV00035,2024-02-21,V010,Delta Electronics,CAD,3,ITM0007,Seals - Mechanical,38,351.73,13365.74
+INV00035,2024-02-21,V010,Delta Electronics,CAD,4,ITM0017,Power Supplies - 500W,14,437.63,6126.82
+INV00036,2024-05-25,V019,Iota Supplies,JPY,1,ITM0062,Insulation Material - Thermal,44,100.34,4414.96
+INV00036,2024-05-25,V019,Iota Supplies,JPY,2,ITM0007,Precision Motors - DC 24V,62,65.9,4085.8
+INV00036,2024-05-25,V019,Iota Supplies,JPY,3,ITM0009,Lubricants - Synthetic,63,46.3,2916.9
+INV00036,2024-05-25,V019,Iota Supplies,JPY,4,ITM0081,Steel Sheets - Grade A,20,83.11,1662.2
+INV00036,2024-05-25,V019,Iota Supplies,JPY,5,ITM0073,Sensor Modules - Temperature,11,497.02,5467.22
+INV00036,2024-05-25,V019,Iota Supplies,JPY,6,ITM0016,Seals - Mechanical,98,213.93,20965.14
+INV00037,2024-11-12,V020,Kappa Industries,USD,1,ITM0100,Cables - Industrial Grade,49,230.75,11306.75
+INV00037,2024-11-12,V020,Kappa Industries,USD,2,ITM0057,Sensor Modules - Temperature,76,495.12,37629.12
+INV00037,2024-11-12,V020,Kappa Industries,USD,3,ITM0040,Pumps - Centrifugal,80,39.51,3160.8
+INV00037,2024-11-12,V020,Kappa Industries,USD,4,ITM0095,Hydraulic Fittings - Standard,98,111.82,10958.36
+INV00038,2024-05-15,V007,Nordic Parts AB,USD,1,ITM0021,Plastic Housings - ABS,23,280.48,6451.04
+INV00038,2024-05-15,V007,Nordic Parts AB,USD,2,ITM0021,Industrial Bearings - Heavy Duty,53,230.75,12229.75
+INV00038,2024-05-15,V007,Nordic Parts AB,USD,3,ITM0077,Power Supplies - 500W,38,25.99,987.62
+INV00039,2024-12-27,V010,Delta Electronics,GBP,1,ITM0090,Insulation Material - Thermal,10,346.82,3468.2
+INV00039,2024-12-27,V010,Delta Electronics,GBP,2,ITM0034,Pumps - Centrifugal,85,403.91,34332.35
+INV00039,2024-12-27,V010,Delta Electronics,GBP,3,ITM0026,Fasteners - Stainless Steel,15,276.84,4152.6
+INV00039,2024-12-27,V010,Delta Electronics,GBP,4,ITM0083,Rubber Gaskets - High Temp,35,415.05,14526.75
+INV00039,2024-12-27,V010,Delta Electronics,GBP,5,ITM0010,Steel Sheets - Grade A,22,398.39,8764.58
+INV00040,2024-10-18,V020,Kappa Industries,EUR,1,ITM0057,Hydraulic Fittings - Standard,60,347.45,20847.0
+INV00040,2024-10-18,V020,Kappa Industries,EUR,2,ITM0090,Lubricants - Synthetic,35,255.23,8933.05
+INV00040,2024-10-18,V020,Kappa Industries,EUR,3,ITM0064,Insulation Material - Thermal,11,303.04,3333.44
+INV00040,2024-10-18,V020,Kappa Industries,EUR,4,ITM0056,Control Valves - Pneumatic,78,132.68,10349.04
+INV00040,2024-10-18,V020,Kappa Industries,EUR,5,ITM0012,Plastic Housings - ABS,87,419.62,36506.94
+INV00041,2024-10-27,V019,Iota Supplies,USD,1,ITM0098,Precision Motors - DC 24V,74,29.71,2198.54
+INV00041,2024-10-27,V019,Iota Supplies,USD,2,ITM0097,Copper Wire - 12 AWG,61,264.29,16121.69
+INV00041,2024-10-27,V019,Iota Supplies,USD,3,ITM0057,Precision Motors - DC 24V,24,498.5,11964.0
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,1,ITM0012,Power Supplies - 500W,45,210.09,9454.05
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,2,ITM0042,Hydraulic Fittings - Standard,21,171.6,3603.6
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,3,ITM0089,Power Supplies - 500W,37,334.67,12382.79
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,4,ITM0052,Seals - Mechanical,5,232.86,1164.3
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,5,ITM0041,Precision Motors - DC 24V,42,66.8,2805.6
+INV00042,2024-11-21,V014,Beta Polymers Inc,EUR,6,ITM0099,Lubricants - Synthetic,66,414.21,27337.86
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,1,ITM0060,Fasteners - Stainless Steel,7,101.92,713.44
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,2,ITM0047,Gearboxes - Planetary,97,254.26,24663.22
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,3,ITM0057,Steel Sheets - Grade A,27,140.86,3803.22
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,4,ITM0017,Sensor Modules - Temperature,57,441.61,25171.77
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,5,ITM0063,Hydraulic Fittings - Standard,4,486.84,1947.36
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,6,ITM0078,Plastic Housings - ABS,91,87.61,7972.51
+INV00043,2024-12-02,V001,Acme Supplies Inc,USD,7,ITM0071,Industrial Bearings - Heavy Duty,71,209.92,14904.32
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,1,ITM0016,Rubber Gaskets - High Temp,64,467.0,29888.0
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,2,ITM0038,Cables - Industrial Grade,91,143.98,13102.18
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,3,ITM0062,Power Supplies - 500W,32,233.83,7482.56
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,4,ITM0019,Lubricants - Synthetic,25,461.72,11543.0
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,5,ITM0066,Rubber Gaskets - High Temp,9,145.36,1308.24
+INV00044,2024-02-28,V008,Atlas Manufacturing,CAD,6,ITM0054,Control Valves - Pneumatic,65,140.91,9159.15
+INV00045,2024-05-24,V001,Acme Supplies Inc,USD,1,ITM0076,Pumps - Centrifugal,85,249.92,21243.2
+INV00045,2024-05-24,V001,Acme Supplies Inc,USD,2,ITM0020,Insulation Material - Thermal,69,247.33,17065.77
+INV00045,2024-05-24,V001,Acme Supplies Inc,USD,3,ITM0043,Seals - Mechanical,98,276.28,27075.44
+INV00045,2024-05-24,V001,Acme Supplies Inc,USD,4,ITM0059,Control Valves - Pneumatic,25,490.58,12264.5
+INV00045,2024-05-24,V001,Acme Supplies Inc,USD,5,ITM0031,Pumps - Centrifugal,50,124.45,6222.5
+INV00046,2024-01-23,V014,Beta Polymers Inc,GBP,1,ITM0096,Power Supplies - 500W,91,457.58,41639.78
+INV00046,2024-01-23,V014,Beta Polymers Inc,GBP,2,ITM0049,Lubricants - Synthetic,85,398.27,33852.95
+INV00046,2024-01-23,V014,Beta Polymers Inc,GBP,3,ITM0084,Rubber Gaskets - High Temp,64,482.76,30896.64
+INV00046,2024-01-23,V014,Beta Polymers Inc,GBP,4,ITM0017,Cables - Industrial Grade,76,172.68,13123.68
+INV00046,2024-01-23,V014,Beta Polymers Inc,GBP,5,ITM0013,Insulation Material - Thermal,13,267.72,3480.36
+INV00047,2024-01-08,V015,Gamma Textiles,USD,1,ITM0053,Rubber Gaskets - High Temp,10,240.05,2400.5
+INV00047,2024-01-08,V015,Gamma Textiles,USD,2,ITM0034,Control Valves - Pneumatic,80,349.43,27954.4
+INV00047,2024-01-08,V015,Gamma Textiles,USD,3,ITM0084,Electronic Components - PCB,43,427.65,18388.95
+INV00047,2024-01-08,V015,Gamma Textiles,USD,4,ITM0069,Lubricants - Synthetic,41,317.13,13002.33
+INV00048,2024-10-04,V016,Epsilon Motors,EUR,1,ITM0080,Electronic Components - PCB,31,319.27,9897.37
+INV00048,2024-10-04,V016,Epsilon Motors,EUR,2,ITM0037,Plastic Housings - ABS,96,54.29,5211.84
+INV00048,2024-10-04,V016,Epsilon Motors,EUR,3,ITM0013,Hydraulic Fittings - Standard,57,91.52,5216.64
+INV00049,2024-01-15,V010,Delta Electronics,EUR,1,ITM0042,Steel Sheets - Grade A,38,185.65,7054.7
+INV00049,2024-01-15,V010,Delta Electronics,EUR,2,ITM0056,Rubber Gaskets - High Temp,32,270.27,8648.64
+INV00049,2024-01-15,V010,Delta Electronics,EUR,3,ITM0073,Copper Wire - 12 AWG,22,95.78,2107.16
+INV00050,2024-07-14,V020,Kappa Industries,USD,1,ITM0088,Plastic Housings - ABS,64,457.29,29266.56
+INV00050,2024-07-14,V020,Kappa Industries,USD,2,ITM0019,Plastic Housings - ABS,60,322.57,19354.2
+INV00050,2024-07-14,V020,Kappa Industries,USD,3,ITM0059,Precision Motors - DC 24V,86,14.6,1255.6
+INV00050,2024-07-14,V020,Kappa Industries,USD,4,ITM0060,Sensor Modules - Temperature,87,277.83,24171.21
+INV00050,2024-07-14,V020,Kappa Industries,USD,5,ITM0010,Insulation Material - Thermal,45,493.95,22227.75
+INV00050,2024-07-14,V020,Kappa Industries,USD,6,ITM0039,Fasteners - Stainless Steel,89,132.55,11796.95
+INV00050,2024-07-14,V020,Kappa Industries,USD,7,ITM0039,Aluminum Extrusions - Custom,50,428.13,21406.5
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,1,ITM0074,Filter Elements - HEPA,74,154.98,11468.52
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,2,ITM0090,Sensor Modules - Temperature,3,489.19,1467.57
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,3,ITM0085,Lubricants - Synthetic,36,13.97,502.92
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,4,ITM0088,Steel Sheets - Grade A,78,375.13,29260.14
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,5,ITM0037,Plastic Housings - ABS,78,402.95,31430.1
+INV00051,2024-05-01,V004,Industrial Solutions GmbH,CAD,6,ITM0029,Aluminum Extrusions - Custom,80,132.81,10624.8
+INV00052,2024-11-17,V005,Pacific Trading Co,GBP,1,ITM0081,Steel Sheets - Grade A,40,396.42,15856.8
+INV00052,2024-11-17,V005,Pacific Trading Co,GBP,2,ITM0005,Pumps - Centrifugal,47,368.86,17336.42
+INV00052,2024-11-17,V005,Pacific Trading Co,GBP,3,ITM0012,Sensor Modules - Temperature,42,376.27,15803.34
+INV00053,2024-04-12,V006,Euro Components SA,CAD,1,ITM0070,Filter Elements - HEPA,68,255.88,17399.84
+INV00053,2024-04-12,V006,Euro Components SA,CAD,2,ITM0035,Copper Wire - 12 AWG,33,457.88,15110.04
+INV00053,2024-04-12,V006,Euro Components SA,CAD,3,ITM0062,Sensor Modules - Temperature,96,436.49,41903.04
+INV00053,2024-04-12,V006,Euro Components SA,CAD,4,ITM0015,Insulation Material - Thermal,10,78.97,789.7
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,1,ITM0072,Filter Elements - HEPA,12,397.43,4769.16
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,2,ITM0002,Precision Motors - DC 24V,69,70.56,4868.64
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,3,ITM0048,Precision Motors - DC 24V,75,196.7,14752.5
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,4,ITM0082,Filter Elements - HEPA,14,340.67,4769.38
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,5,ITM0061,Industrial Bearings - Heavy Duty,80,443.28,35462.4
+INV00054,2024-12-12,V008,Atlas Manufacturing,JPY,6,ITM0072,Control Valves - Pneumatic,79,118.47,9359.13
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,1,ITM0090,Sensor Modules - Temperature,84,210.06,17645.04
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,2,ITM0018,Steel Sheets - Grade A,5,159.14,795.7
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,3,ITM0064,Hydraulic Fittings - Standard,13,125.05,1625.65
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,4,ITM0069,Rubber Gaskets - High Temp,50,232.29,11614.5
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,5,ITM0086,Seals - Mechanical,54,297.8,16081.2
+INV00055,2024-11-21,V003,TechParts Ltd,EUR,6,ITM0094,Rubber Gaskets - High Temp,54,330.91,17869.14
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,1,ITM0036,Steel Sheets - Grade A,89,191.56,17048.84
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,2,ITM0057,Insulation Material - Thermal,31,429.17,13304.27
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,3,ITM0013,Filter Elements - HEPA,70,451.83,31628.1
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,4,ITM0083,Filter Elements - HEPA,8,205.09,1640.72
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,5,ITM0025,Hydraulic Fittings - Standard,59,54.92,3240.28
+INV00056,2024-11-11,V016,Epsilon Motors,CAD,6,ITM0028,Gearboxes - Planetary,3,34.78,104.34
+INV00057,2024-05-04,V011,Omega Chemicals,USD,1,ITM0073,Aluminum Extrusions - Custom,9,416.61,3749.49
+INV00057,2024-05-04,V011,Omega Chemicals,USD,2,ITM0071,Aluminum Extrusions - Custom,76,115.82,8802.32
+INV00057,2024-05-04,V011,Omega Chemicals,USD,3,ITM0030,Control Valves - Pneumatic,100,82.3,8230.0
+INV00057,2024-05-04,V011,Omega Chemicals,USD,4,ITM0077,Industrial Bearings - Heavy Duty,36,430.62,15502.32
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,1,ITM0033,Copper Wire - 12 AWG,15,333.92,5008.8
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,2,ITM0004,Rubber Gaskets - High Temp,2,185.54,371.08
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,3,ITM0031,Pumps - Centrifugal,42,17.73,744.66
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,4,ITM0034,Steel Sheets - Grade A,17,373.44,6348.48
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,5,ITM0068,Hydraulic Fittings - Standard,96,41.14,3949.44
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,6,ITM0058,Filter Elements - HEPA,66,300.9,19859.4
+INV00058,2024-03-07,V005,Pacific Trading Co,USD,7,ITM0058,Cables - Industrial Grade,29,473.25,13724.25
+INV00059,2024-12-03,V002,Global Materials Corp,USD,1,ITM0039,Insulation Material - Thermal,83,482.37,40036.71
+INV00059,2024-12-03,V002,Global Materials Corp,USD,2,ITM0008,Power Supplies - 500W,52,218.87,11381.24
+INV00059,2024-12-03,V002,Global Materials Corp,USD,3,ITM0014,Power Supplies - 500W,92,455.75,41929.0
+INV00059,2024-12-03,V002,Global Materials Corp,USD,4,ITM0010,Electronic Components - PCB,42,308.07,12938.94
+INV00059,2024-12-03,V002,Global Materials Corp,USD,5,ITM0009,Rubber Gaskets - High Temp,36,315.92,11373.12
+INV00059,2024-12-03,V002,Global Materials Corp,USD,6,ITM0075,Seals - Mechanical,92,169.34,15579.28
+INV00059,2024-12-03,V002,Global Materials Corp,USD,7,ITM0077,Cables - Industrial Grade,38,232.32,8828.16
+INV00060,2024-08-08,V020,Kappa Industries,USD,1,ITM0090,Hydraulic Fittings - Standard,84,328.95,27631.8
+INV00060,2024-08-08,V020,Kappa Industries,USD,2,ITM0099,Seals - Mechanical,93,434.09,40370.37
+INV00060,2024-08-08,V020,Kappa Industries,USD,3,ITM0056,Insulation Material - Thermal,30,212.77,6383.1
+INV00061,2024-07-23,V015,Gamma Textiles,USD,1,ITM0094,Hydraulic Fittings - Standard,41,219.11,8983.51
+INV00061,2024-07-23,V015,Gamma Textiles,USD,2,ITM0086,Precision Motors - DC 24V,48,477.26,22908.48
+INV00061,2024-07-23,V015,Gamma Textiles,USD,3,ITM0088,Power Supplies - 500W,9,54.7,492.3
+INV00061,2024-07-23,V015,Gamma Textiles,USD,4,ITM0011,Electronic Components - PCB,56,57.32,3209.92
+INV00061,2024-07-23,V015,Gamma Textiles,USD,5,ITM0095,Filter Elements - HEPA,17,282.62,4804.54
+INV00061,2024-07-23,V015,Gamma Textiles,USD,6,ITM0076,Seals - Mechanical,72,171.53,12350.16
+INV00062,2024-07-29,V004,Industrial Solutions GmbH,USD,1,ITM0086,Fasteners - Stainless Steel,93,35.21,3274.53
+INV00062,2024-07-29,V004,Industrial Solutions GmbH,USD,2,ITM0037,Gearboxes - Planetary,40,182.31,7292.4
+INV00062,2024-07-29,V004,Industrial Solutions GmbH,USD,3,ITM0074,Cables - Industrial Grade,28,85.82,2402.96
+INV00062,2024-07-29,V004,Industrial Solutions GmbH,USD,4,ITM0062,Plastic Housings - ABS,14,181.56,2541.84
+INV00062,2024-07-29,V004,Industrial Solutions GmbH,USD,5,ITM0072,Filter Elements - HEPA,15,383.68,5755.2
+INV00063,2024-04-25,V019,Iota Supplies,JPY,1,ITM0072,Gearboxes - Planetary,79,340.74,26918.46
+INV00063,2024-04-25,V019,Iota Supplies,JPY,2,ITM0072,Industrial Bearings - Heavy Duty,78,465.25,36289.5
+INV00063,2024-04-25,V019,Iota Supplies,JPY,3,ITM0089,Precision Motors - DC 24V,4,98.4,393.6
+INV00063,2024-04-25,V019,Iota Supplies,JPY,4,ITM0090,Sensor Modules - Temperature,44,182.0,8008.0
+INV00063,2024-04-25,V019,Iota Supplies,JPY,5,ITM0024,Rubber Gaskets - High Temp,73,332.1,24243.3
+INV00063,2024-04-25,V019,Iota Supplies,JPY,6,ITM0009,Rubber Gaskets - High Temp,95,320.25,30423.75
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,1,ITM0028,Lubricants - Synthetic,54,232.29,12543.66
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,2,ITM0021,Filter Elements - HEPA,40,363.58,14543.2
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,3,ITM0100,Pumps - Centrifugal,77,51.63,3975.51
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,4,ITM0007,Rubber Gaskets - High Temp,21,379.67,7973.07
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,5,ITM0007,Electronic Components - PCB,35,227.13,7949.55
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,6,ITM0055,Power Supplies - 500W,78,226.6,17674.8
+INV00064,2024-02-16,V001,Acme Supplies Inc,USD,7,ITM0035,Aluminum Extrusions - Custom,97,261.05,25321.85
+INV00065,2024-08-08,V012,Sigma Steel Works,USD,1,ITM0037,Pumps - Centrifugal,63,268.2,16896.6
+INV00065,2024-08-08,V012,Sigma Steel Works,USD,2,ITM0040,Steel Sheets - Grade A,29,203.68,5906.72
+INV00065,2024-08-08,V012,Sigma Steel Works,USD,3,ITM0077,Steel Sheets - Grade A,1,110.17,110.17
+INV00066,2024-03-11,V007,Nordic Parts AB,EUR,1,ITM0038,Control Valves - Pneumatic,16,13.79,220.64
+INV00066,2024-03-11,V007,Nordic Parts AB,EUR,2,ITM0096,Fasteners - Stainless Steel,23,73.3,1685.9
+INV00066,2024-03-11,V007,Nordic Parts AB,EUR,3,ITM0069,Plastic Housings - ABS,65,283.77,18445.05
+INV00066,2024-03-11,V007,Nordic Parts AB,EUR,4,ITM0086,Filter Elements - HEPA,10,204.56,2045.6
+INV00066,2024-03-11,V007,Nordic Parts AB,EUR,5,ITM0095,Steel Sheets - Grade A,56,19.18,1074.08
+INV00067,2024-06-09,V003,TechParts Ltd,USD,1,ITM0055,Pumps - Centrifugal,52,357.65,18597.8
+INV00067,2024-06-09,V003,TechParts Ltd,USD,2,ITM0054,Sensor Modules - Temperature,15,208.47,3127.05
+INV00067,2024-06-09,V003,TechParts Ltd,USD,3,ITM0042,Copper Wire - 12 AWG,80,235.45,18836.0
+INV00067,2024-06-09,V003,TechParts Ltd,USD,4,ITM0089,Filter Elements - HEPA,12,223.99,2687.88
+INV00067,2024-06-09,V003,TechParts Ltd,USD,5,ITM0014,Plastic Housings - ABS,56,298.55,16718.8
+INV00067,2024-06-09,V003,TechParts Ltd,USD,6,ITM0068,Electronic Components - PCB,51,436.56,22264.56
+INV00067,2024-06-09,V003,TechParts Ltd,USD,7,ITM0096,Control Valves - Pneumatic,29,173.2,5022.8
+INV00068,2024-02-09,V006,Euro Components SA,JPY,1,ITM0082,Hydraulic Fittings - Standard,68,259.88,17671.84
+INV00068,2024-02-09,V006,Euro Components SA,JPY,2,ITM0100,Filter Elements - HEPA,45,366.42,16488.9
+INV00068,2024-02-09,V006,Euro Components SA,JPY,3,ITM0083,Rubber Gaskets - High Temp,31,60.37,1871.47
+INV00068,2024-02-09,V006,Euro Components SA,JPY,4,ITM0033,Aluminum Extrusions - Custom,23,305.18,7019.14
+INV00068,2024-02-09,V006,Euro Components SA,JPY,5,ITM0098,Electronic Components - PCB,23,476.13,10950.99
+INV00068,2024-02-09,V006,Euro Components SA,JPY,6,ITM0081,Power Supplies - 500W,60,379.68,22780.8
+INV00068,2024-02-09,V006,Euro Components SA,JPY,7,ITM0098,Pumps - Centrifugal,58,343.76,19938.08
+INV00069,2024-11-25,V019,Iota Supplies,USD,1,ITM0042,Control Valves - Pneumatic,20,225.48,4509.6
+INV00069,2024-11-25,V019,Iota Supplies,USD,2,ITM0061,Insulation Material - Thermal,81,158.38,12828.78
+INV00069,2024-11-25,V019,Iota Supplies,USD,3,ITM0036,Pumps - Centrifugal,8,182.45,1459.6
+INV00069,2024-11-25,V019,Iota Supplies,USD,4,ITM0010,Sensor Modules - Temperature,60,231.44,13886.4
+INV00069,2024-11-25,V019,Iota Supplies,USD,5,ITM0008,Filter Elements - HEPA,37,47.6,1761.2
+INV00069,2024-11-25,V019,Iota Supplies,USD,6,ITM0012,Gearboxes - Planetary,77,258.46,19901.42
+INV00069,2024-11-25,V019,Iota Supplies,USD,7,ITM0060,Pumps - Centrifugal,71,477.57,33907.47
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,1,ITM0084,Aluminum Extrusions - Custom,42,306.45,12870.9
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,2,ITM0065,Rubber Gaskets - High Temp,8,230.76,1846.08
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,3,ITM0044,Electronic Components - PCB,65,326.6,21229.0
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,4,ITM0006,Plastic Housings - ABS,91,224.5,20429.5
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,5,ITM0057,Cables - Industrial Grade,67,308.8,20689.6
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,6,ITM0047,Filter Elements - HEPA,37,199.83,7393.71
+INV00070,2024-08-18,V002,Global Materials Corp,CAD,7,ITM0100,Control Valves - Pneumatic,87,302.96,26357.52
+INV00071,2024-02-03,V011,Omega Chemicals,GBP,1,ITM0013,Seals - Mechanical,87,199.42,17349.54
+INV00071,2024-02-03,V011,Omega Chemicals,GBP,2,ITM0033,Gearboxes - Planetary,20,173.35,3467.0
+INV00071,2024-02-03,V011,Omega Chemicals,GBP,3,ITM0075,Rubber Gaskets - High Temp,45,162.01,7290.45
+INV00071,2024-02-03,V011,Omega Chemicals,GBP,4,ITM0084,Lubricants - Synthetic,17,301.57,5126.69
+INV00071,2024-02-03,V011,Omega Chemicals,GBP,5,ITM0011,Sensor Modules - Temperature,72,194.57,14009.04
+INV00072,2024-03-06,V011,Omega Chemicals,USD,1,ITM0012,Fasteners - Stainless Steel,66,187.3,12361.8
+INV00072,2024-03-06,V011,Omega Chemicals,USD,2,ITM0047,Sensor Modules - Temperature,24,476.07,11425.68
+INV00072,2024-03-06,V011,Omega Chemicals,USD,3,ITM0044,Power Supplies - 500W,25,121.01,3025.25
+INV00072,2024-03-06,V011,Omega Chemicals,USD,4,ITM0018,Rubber Gaskets - High Temp,10,154.94,1549.4
+INV00072,2024-03-06,V011,Omega Chemicals,USD,5,ITM0013,Cables - Industrial Grade,99,274.49,27174.51
+INV00072,2024-03-06,V011,Omega Chemicals,USD,6,ITM0095,Cables - Industrial Grade,5,334.35,1671.75
+INV00072,2024-03-06,V011,Omega Chemicals,USD,7,ITM0099,Gearboxes - Planetary,17,302.65,5145.05
+INV00073,2024-03-24,V005,Pacific Trading Co,USD,1,ITM0089,Gearboxes - Planetary,22,363.38,7994.36
+INV00073,2024-03-24,V005,Pacific Trading Co,USD,2,ITM0006,Fasteners - Stainless Steel,47,341.42,16046.74
+INV00073,2024-03-24,V005,Pacific Trading Co,USD,3,ITM0031,Insulation Material - Thermal,79,149.61,11819.19
+INV00073,2024-03-24,V005,Pacific Trading Co,USD,4,ITM0096,Insulation Material - Thermal,30,271.67,8150.1
+INV00074,2024-08-28,V010,Delta Electronics,JPY,1,ITM0048,Pumps - Centrifugal,57,236.22,13464.54
+INV00074,2024-08-28,V010,Delta Electronics,JPY,2,ITM0037,Lubricants - Synthetic,65,268.46,17449.9
+INV00074,2024-08-28,V010,Delta Electronics,JPY,3,ITM0021,Aluminum Extrusions - Custom,78,77.82,6069.96
+INV00074,2024-08-28,V010,Delta Electronics,JPY,4,ITM0033,Steel Sheets - Grade A,83,245.49,20375.67
+INV00075,2024-10-10,V012,Sigma Steel Works,GBP,1,ITM0092,Cables - Industrial Grade,16,149.68,2394.88
+INV00075,2024-10-10,V012,Sigma Steel Works,GBP,2,ITM0098,Copper Wire - 12 AWG,35,230.17,8055.95
+INV00075,2024-10-10,V012,Sigma Steel Works,GBP,3,ITM0066,Rubber Gaskets - High Temp,56,54.94,3076.64
+INV00076,2024-08-18,V008,Atlas Manufacturing,GBP,1,ITM0004,Fasteners - Stainless Steel,7,204.26,1429.82
+INV00076,2024-08-18,V008,Atlas Manufacturing,GBP,2,ITM0048,Plastic Housings - ABS,50,497.32,24866.0
+INV00076,2024-08-18,V008,Atlas Manufacturing,GBP,3,ITM0048,Plastic Housings - ABS,4,166.16,664.64
+INV00076,2024-08-18,V008,Atlas Manufacturing,GBP,4,ITM0013,Control Valves - Pneumatic,19,77.42,1470.98
+INV00076,2024-08-18,V008,Atlas Manufacturing,GBP,5,ITM0037,Power Supplies - 500W,90,417.24,37551.6
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,1,ITM0001,Electronic Components - PCB,3,135.4,406.2
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,2,ITM0020,Seals - Mechanical,94,308.35,28984.9
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,3,ITM0055,Hydraulic Fittings - Standard,100,151.17,15117.0
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,4,ITM0039,Hydraulic Fittings - Standard,7,126.84,887.88
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,5,ITM0082,Gearboxes - Planetary,59,40.78,2406.02
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,6,ITM0064,Gearboxes - Planetary,69,18.05,1245.45
+INV00077,2024-08-17,V016,Epsilon Motors,GBP,7,ITM0066,Pumps - Centrifugal,31,362.09,11224.79
+INV00078,2024-08-07,V010,Delta Electronics,USD,1,ITM0079,Filter Elements - HEPA,31,289.63,8978.53
+INV00078,2024-08-07,V010,Delta Electronics,USD,2,ITM0024,Electronic Components - PCB,68,487.58,33155.44
+INV00078,2024-08-07,V010,Delta Electronics,USD,3,ITM0009,Cables - Industrial Grade,70,258.59,18101.3
+INV00079,2024-10-10,V017,Zeta Packaging,USD,1,ITM0050,Power Supplies - 500W,6,321.48,1928.88
+INV00079,2024-10-10,V017,Zeta Packaging,USD,2,ITM0048,Precision Motors - DC 24V,96,17.96,1724.16
+INV00079,2024-10-10,V017,Zeta Packaging,USD,3,ITM0009,Filter Elements - HEPA,31,369.14,11443.34
+INV00080,2024-10-24,V004,Industrial Solutions GmbH,USD,1,ITM0018,Steel Sheets - Grade A,46,277.55,12767.3
+INV00080,2024-10-24,V004,Industrial Solutions GmbH,USD,2,ITM0083,Copper Wire - 12 AWG,100,345.49,34549.0
+INV00080,2024-10-24,V004,Industrial Solutions GmbH,USD,3,ITM0090,Power Supplies - 500W,81,99.32,8044.92
+INV00080,2024-10-24,V004,Industrial Solutions GmbH,USD,4,ITM0018,Electronic Components - PCB,92,390.33,35910.36
+INV00080,2024-10-24,V004,Industrial Solutions GmbH,USD,5,ITM0059,Steel Sheets - Grade A,38,108.78,4133.64
+INV00081,2024-01-22,V007,Nordic Parts AB,JPY,1,ITM0040,Cables - Industrial Grade,51,494.67,25228.17
+INV00081,2024-01-22,V007,Nordic Parts AB,JPY,2,ITM0070,Power Supplies - 500W,33,27.94,922.02
+INV00081,2024-01-22,V007,Nordic Parts AB,JPY,3,ITM0083,Aluminum Extrusions - Custom,37,184.92,6842.04
+INV00081,2024-01-22,V007,Nordic Parts AB,JPY,4,ITM0100,Steel Sheets - Grade A,84,172.64,14501.76
+INV00081,2024-01-22,V007,Nordic Parts AB,JPY,5,ITM0016,Filter Elements - HEPA,56,445.85,24967.6
+INV00082,2024-07-16,V015,Gamma Textiles,EUR,1,ITM0024,Power Supplies - 500W,89,253.79,22587.31
+INV00082,2024-07-16,V015,Gamma Textiles,EUR,2,ITM0067,Precision Motors - DC 24V,11,366.27,4028.97
+INV00082,2024-07-16,V015,Gamma Textiles,EUR,3,ITM0011,Fasteners - Stainless Steel,78,497.6,38812.8
+INV00082,2024-07-16,V015,Gamma Textiles,EUR,4,ITM0024,Seals - Mechanical,38,167.39,6360.82
+INV00082,2024-07-16,V015,Gamma Textiles,EUR,5,ITM0011,Control Valves - Pneumatic,85,154.86,13163.1
+INV00083,2024-11-04,V015,Gamma Textiles,USD,1,ITM0022,Insulation Material - Thermal,45,229.09,10309.05
+INV00083,2024-11-04,V015,Gamma Textiles,USD,2,ITM0094,Filter Elements - HEPA,79,499.09,39428.11
+INV00083,2024-11-04,V015,Gamma Textiles,USD,3,ITM0036,Steel Sheets - Grade A,10,338.88,3388.8
+INV00083,2024-11-04,V015,Gamma Textiles,USD,4,ITM0052,Filter Elements - HEPA,66,402.54,26567.64
+INV00083,2024-11-04,V015,Gamma Textiles,USD,5,ITM0087,Copper Wire - 12 AWG,4,79.96,319.84
+INV00083,2024-11-04,V015,Gamma Textiles,USD,6,ITM0078,Insulation Material - Thermal,5,71.85,359.25
+INV00084,2024-11-26,V008,Atlas Manufacturing,USD,1,ITM0047,Lubricants - Synthetic,73,25.87,1888.51
+INV00084,2024-11-26,V008,Atlas Manufacturing,USD,2,ITM0020,Insulation Material - Thermal,48,192.29,9229.92
+INV00084,2024-11-26,V008,Atlas Manufacturing,USD,3,ITM0098,Electronic Components - PCB,74,77.47,5732.78
+INV00084,2024-11-26,V008,Atlas Manufacturing,USD,4,ITM0047,Lubricants - Synthetic,41,328.28,13459.48
+INV00084,2024-11-26,V008,Atlas Manufacturing,USD,5,ITM0032,Hydraulic Fittings - Standard,4,370.48,1481.92
+INV00085,2024-09-22,V016,Epsilon Motors,USD,1,ITM0072,Hydraulic Fittings - Standard,34,389.73,13250.82
+INV00085,2024-09-22,V016,Epsilon Motors,USD,2,ITM0091,Insulation Material - Thermal,28,498.22,13950.16
+INV00085,2024-09-22,V016,Epsilon Motors,USD,3,ITM0037,Power Supplies - 500W,26,70.09,1822.34
+INV00085,2024-09-22,V016,Epsilon Motors,USD,4,ITM0010,Insulation Material - Thermal,23,450.35,10358.05
+INV00085,2024-09-22,V016,Epsilon Motors,USD,5,ITM0057,Electronic Components - PCB,88,484.11,42601.68
+INV00085,2024-09-22,V016,Epsilon Motors,USD,6,ITM0041,Filter Elements - HEPA,91,41.82,3805.62
+INV00086,2024-05-28,V018,Theta Instruments,USD,1,ITM0021,Copper Wire - 12 AWG,47,259.29,12186.63
+INV00086,2024-05-28,V018,Theta Instruments,USD,2,ITM0016,Aluminum Extrusions - Custom,18,126.0,2268.0
+INV00086,2024-05-28,V018,Theta Instruments,USD,3,ITM0064,Industrial Bearings - Heavy Duty,47,281.47,13229.09
+INV00086,2024-05-28,V018,Theta Instruments,USD,4,ITM0048,Insulation Material - Thermal,71,73.59,5224.89
+INV00086,2024-05-28,V018,Theta Instruments,USD,5,ITM0012,Electronic Components - PCB,40,205.1,8204.0
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,1,ITM0099,Fasteners - Stainless Steel,74,46.14,3414.36
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,2,ITM0041,Electronic Components - PCB,58,238.26,13819.08
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,3,ITM0067,Filter Elements - HEPA,17,440.2,7483.4
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,4,ITM0100,Seals - Mechanical,82,298.02,24437.64
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,5,ITM0099,Rubber Gaskets - High Temp,56,256.4,14358.4
+INV00087,2024-09-26,V016,Epsilon Motors,GBP,6,ITM0008,Hydraulic Fittings - Standard,67,84.98,5693.66
+INV00088,2024-03-23,V006,Euro Components SA,EUR,1,ITM0091,Plastic Housings - ABS,45,474.27,21342.15
+INV00088,2024-03-23,V006,Euro Components SA,EUR,2,ITM0067,Sensor Modules - Temperature,11,132.8,1460.8
+INV00088,2024-03-23,V006,Euro Components SA,EUR,3,ITM0082,Seals - Mechanical,36,71.33,2567.88
+INV00088,2024-03-23,V006,Euro Components SA,EUR,4,ITM0039,Gearboxes - Planetary,69,55.78,3848.82
+INV00088,2024-03-23,V006,Euro Components SA,EUR,5,ITM0083,Copper Wire - 12 AWG,76,471.39,35825.64
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,1,ITM0093,Gearboxes - Planetary,44,422.84,18604.96
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,2,ITM0073,Steel Sheets - Grade A,4,49.8,199.2
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,3,ITM0083,Pumps - Centrifugal,34,329.05,11187.7
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,4,ITM0099,Pumps - Centrifugal,54,312.87,16894.98
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,5,ITM0004,Power Supplies - 500W,81,277.33,22463.73
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,6,ITM0083,Sensor Modules - Temperature,62,129.99,8059.38
+INV00089,2024-03-28,V005,Pacific Trading Co,JPY,7,ITM0088,Lubricants - Synthetic,39,232.24,9057.36
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,1,ITM0054,Power Supplies - 500W,60,109.97,6598.2
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,2,ITM0078,Rubber Gaskets - High Temp,41,432.13,17717.33
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,3,ITM0041,Filter Elements - HEPA,52,74.08,3852.16
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,4,ITM0048,Cables - Industrial Grade,72,62.03,4466.16
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,5,ITM0031,Insulation Material - Thermal,16,141.06,2256.96
+INV00090,2024-03-21,V002,Global Materials Corp,EUR,6,ITM0032,Rubber Gaskets - High Temp,13,34.8,452.4
+INV00091,2024-11-11,V013,Alpha Logistics,USD,1,ITM0032,Copper Wire - 12 AWG,42,467.54,19636.68
+INV00091,2024-11-11,V013,Alpha Logistics,USD,2,ITM0093,Control Valves - Pneumatic,25,383.93,9598.25
+INV00091,2024-11-11,V013,Alpha Logistics,USD,3,ITM0064,Cables - Industrial Grade,60,254.39,15263.4
+INV00091,2024-11-11,V013,Alpha Logistics,USD,4,ITM0040,Power Supplies - 500W,3,54.12,162.36
+INV00091,2024-11-11,V013,Alpha Logistics,USD,5,ITM0051,Cables - Industrial Grade,59,483.68,28537.12
+INV00091,2024-11-11,V013,Alpha Logistics,USD,6,ITM0028,Pumps - Centrifugal,46,33.84,1556.64
+INV00092,2024-09-10,V010,Delta Electronics,GBP,1,ITM0084,Power Supplies - 500W,37,272.98,10100.26
+INV00092,2024-09-10,V010,Delta Electronics,GBP,2,ITM0014,Fasteners - Stainless Steel,18,442.4,7963.2
+INV00092,2024-09-10,V010,Delta Electronics,GBP,3,ITM0094,Filter Elements - HEPA,98,207.59,20343.82
+INV00092,2024-09-10,V010,Delta Electronics,GBP,4,ITM0006,Lubricants - Synthetic,7,289.44,2026.08
+INV00092,2024-09-10,V010,Delta Electronics,GBP,5,ITM0025,Filter Elements - HEPA,71,151.41,10750.11
+INV00092,2024-09-10,V010,Delta Electronics,GBP,6,ITM0050,Cables - Industrial Grade,58,384.56,22304.48
+INV00092,2024-09-10,V010,Delta Electronics,GBP,7,ITM0036,Gearboxes - Planetary,88,309.41,27228.08
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,1,ITM0048,Control Valves - Pneumatic,72,470.08,33845.76
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,2,ITM0097,Rubber Gaskets - High Temp,26,305.21,7935.46
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,3,ITM0052,Cables - Industrial Grade,6,32.2,193.2
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,4,ITM0018,Control Valves - Pneumatic,61,264.47,16132.67
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,5,ITM0020,Gearboxes - Planetary,66,78.49,5180.34
+INV00093,2024-02-19,V005,Pacific Trading Co,GBP,6,ITM0079,Control Valves - Pneumatic,21,202.55,4253.55
+INV00094,2024-06-02,V020,Kappa Industries,EUR,1,ITM0044,Cables - Industrial Grade,66,270.85,17876.1
+INV00094,2024-06-02,V020,Kappa Industries,EUR,2,ITM0091,Pumps - Centrifugal,39,242.7,9465.3
+INV00094,2024-06-02,V020,Kappa Industries,EUR,3,ITM0003,Filter Elements - HEPA,43,340.17,14627.31
+INV00094,2024-06-02,V020,Kappa Industries,EUR,4,ITM0054,Pumps - Centrifugal,40,400.41,16016.4
+INV00094,2024-06-02,V020,Kappa Industries,EUR,5,ITM0093,Industrial Bearings - Heavy Duty,77,242.55,18676.35
+INV00094,2024-06-02,V020,Kappa Industries,EUR,6,ITM0084,Pumps - Centrifugal,74,121.5,8991.0
+INV00094,2024-06-02,V020,Kappa Industries,EUR,7,ITM0007,Pumps - Centrifugal,62,93.55,5800.1
+INV00095,2024-07-13,V020,Kappa Industries,GBP,1,ITM0088,Plastic Housings - ABS,5,290.56,1452.8
+INV00095,2024-07-13,V020,Kappa Industries,GBP,2,ITM0090,Hydraulic Fittings - Standard,25,19.28,482.0
+INV00095,2024-07-13,V020,Kappa Industries,GBP,3,ITM0041,Fasteners - Stainless Steel,20,212.35,4247.0
+INV00095,2024-07-13,V020,Kappa Industries,GBP,4,ITM0027,Fasteners - Stainless Steel,65,389.74,25333.1
+INV00096,2024-02-01,V016,Epsilon Motors,EUR,1,ITM0067,Aluminum Extrusions - Custom,72,169.27,12187.44
+INV00096,2024-02-01,V016,Epsilon Motors,EUR,2,ITM0085,Power Supplies - 500W,68,194.64,13235.52
+INV00096,2024-02-01,V016,Epsilon Motors,EUR,3,ITM0023,Insulation Material - Thermal,69,177.74,12264.06
+INV00096,2024-02-01,V016,Epsilon Motors,EUR,4,ITM0046,Precision Motors - DC 24V,79,247.25,19532.75
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,1,ITM0039,Plastic Housings - ABS,39,387.88,15127.32
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,2,ITM0091,Aluminum Extrusions - Custom,89,355.44,31634.16
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,3,ITM0041,Power Supplies - 500W,45,284.64,12808.8
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,4,ITM0093,Precision Motors - DC 24V,37,69.72,2579.64
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,5,ITM0087,Seals - Mechanical,49,448.92,21997.08
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,6,ITM0051,Filter Elements - HEPA,99,404.26,40021.74
+INV00097,2024-05-22,V008,Atlas Manufacturing,EUR,7,ITM0038,Steel Sheets - Grade A,37,478.1,17689.7
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,1,ITM0084,Precision Motors - DC 24V,96,244.75,23496.0
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,2,ITM0026,Seals - Mechanical,35,467.18,16351.3
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,3,ITM0090,Precision Motors - DC 24V,18,63.52,1143.36
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,4,ITM0095,Pumps - Centrifugal,31,128.8,3992.8
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,5,ITM0086,Cables - Industrial Grade,29,322.59,9355.11
+INV00098,2024-06-26,V003,TechParts Ltd,EUR,6,ITM0007,Hydraulic Fittings - Standard,53,171.84,9107.52
+INV00099,2024-02-21,V016,Epsilon Motors,USD,1,ITM0001,Seals - Mechanical,21,209.38,4396.98
+INV00099,2024-02-21,V016,Epsilon Motors,USD,2,ITM0061,Power Supplies - 500W,84,107.73,9049.32
+INV00099,2024-02-21,V016,Epsilon Motors,USD,3,ITM0037,Control Valves - Pneumatic,37,326.49,12080.13
+INV00099,2024-02-21,V016,Epsilon Motors,USD,4,ITM0099,Electronic Components - PCB,84,291.33,24471.72
+INV00100,2024-01-20,V018,Theta Instruments,USD,1,ITM0054,Copper Wire - 12 AWG,5,498.61,2493.05
+INV00100,2024-01-20,V018,Theta Instruments,USD,2,ITM0051,Power Supplies - 500W,24,468.94,11254.56
+INV00100,2024-01-20,V018,Theta Instruments,USD,3,ITM0038,Steel Sheets - Grade A,2,156.21,312.42
+INV00100,2024-01-20,V018,Theta Instruments,USD,4,ITM0078,Hydraulic Fittings - Standard,43,149.44,6425.92
+INV00101,2024-09-25,V018,Theta Instruments,USD,1,ITM0018,Cables - Industrial Grade,60,143.69,8621.4
+INV00101,2024-09-25,V018,Theta Instruments,USD,2,ITM0015,Control Valves - Pneumatic,21,368.25,7733.25
+INV00101,2024-09-25,V018,Theta Instruments,USD,3,ITM0083,Precision Motors - DC 24V,92,101.24,9314.08
+INV00101,2024-09-25,V018,Theta Instruments,USD,4,ITM0095,Control Valves - Pneumatic,38,288.21,10951.98
+INV00101,2024-09-25,V018,Theta Instruments,USD,5,ITM0097,Aluminum Extrusions - Custom,23,309.37,7115.51
+INV00101,2024-09-25,V018,Theta Instruments,USD,6,ITM0082,Lubricants - Synthetic,55,262.49,14436.95
+INV00102,2024-07-24,V003,TechParts Ltd,EUR,1,ITM0024,Rubber Gaskets - High Temp,62,168.56,10450.72
+INV00102,2024-07-24,V003,TechParts Ltd,EUR,2,ITM0032,Industrial Bearings - Heavy Duty,34,197.95,6730.3
+INV00102,2024-07-24,V003,TechParts Ltd,EUR,3,ITM0058,Precision Motors - DC 24V,43,157.95,6791.85
+INV00103,2024-01-06,V019,Iota Supplies,USD,1,ITM0084,Filter Elements - HEPA,89,125.79,11195.31
+INV00103,2024-01-06,V019,Iota Supplies,USD,2,ITM0086,Hydraulic Fittings - Standard,60,160.34,9620.4
+INV00103,2024-01-06,V019,Iota Supplies,USD,3,ITM0052,Cables - Industrial Grade,91,387.22,35237.02
+INV00103,2024-01-06,V019,Iota Supplies,USD,4,ITM0089,Hydraulic Fittings - Standard,82,458.9,37629.8
+INV00103,2024-01-06,V019,Iota Supplies,USD,5,ITM0038,Filter Elements - HEPA,79,118.22,9339.38
+INV00104,2024-09-01,V005,Pacific Trading Co,EUR,1,ITM0059,Gearboxes - Planetary,48,213.76,10260.48
+INV00104,2024-09-01,V005,Pacific Trading Co,EUR,2,ITM0071,Power Supplies - 500W,97,273.38,26517.86
+INV00104,2024-09-01,V005,Pacific Trading Co,EUR,3,ITM0086,Aluminum Extrusions - Custom,98,131.26,12863.48
+INV00104,2024-09-01,V005,Pacific Trading Co,EUR,4,ITM0097,Gearboxes - Planetary,11,267.5,2942.5
+INV00105,2024-12-26,V017,Zeta Packaging,CAD,1,ITM0010,Pumps - Centrifugal,15,40.26,603.9
+INV00105,2024-12-26,V017,Zeta Packaging,CAD,2,ITM0071,Cables - Industrial Grade,26,290.62,7556.12
+INV00105,2024-12-26,V017,Zeta Packaging,CAD,3,ITM0020,Copper Wire - 12 AWG,42,428.7,18005.4
+INV00105,2024-12-26,V017,Zeta Packaging,CAD,4,ITM0057,Hydraulic Fittings - Standard,88,110.65,9737.2
+INV00105,2024-12-26,V017,Zeta Packaging,CAD,5,ITM0075,Power Supplies - 500W,12,450.46,5405.52
+INV00106,2024-01-29,V015,Gamma Textiles,USD,1,ITM0017,Cables - Industrial Grade,54,233.83,12626.82
+INV00106,2024-01-29,V015,Gamma Textiles,USD,2,ITM0008,Seals - Mechanical,60,339.66,20379.6
+INV00106,2024-01-29,V015,Gamma Textiles,USD,3,ITM0040,Industrial Bearings - Heavy Duty,51,134.68,6868.68
+INV00106,2024-01-29,V015,Gamma Textiles,USD,4,ITM0001,Aluminum Extrusions - Custom,75,45.78,3433.5
+INV00106,2024-01-29,V015,Gamma Textiles,USD,5,ITM0055,Filter Elements - HEPA,90,41.24,3711.6
+INV00106,2024-01-29,V015,Gamma Textiles,USD,6,ITM0008,Electronic Components - PCB,61,25.55,1558.55
+INV00107,2024-04-02,V014,Beta Polymers Inc,EUR,1,ITM0099,Fasteners - Stainless Steel,48,496.5,23832.0
+INV00107,2024-04-02,V014,Beta Polymers Inc,EUR,2,ITM0049,Insulation Material - Thermal,49,194.07,9509.43
+INV00107,2024-04-02,V014,Beta Polymers Inc,EUR,3,ITM0088,Seals - Mechanical,18,330.23,5944.14
+INV00107,2024-04-02,V014,Beta Polymers Inc,EUR,4,ITM0045,Hydraulic Fittings - Standard,23,496.49,11419.27
+INV00108,2024-09-27,V013,Alpha Logistics,GBP,1,ITM0094,Plastic Housings - ABS,1,380.53,380.53
+INV00108,2024-09-27,V013,Alpha Logistics,GBP,2,ITM0039,Insulation Material - Thermal,87,362.36,31525.32
+INV00108,2024-09-27,V013,Alpha Logistics,GBP,3,ITM0055,Seals - Mechanical,49,413.45,20259.05
+INV00108,2024-09-27,V013,Alpha Logistics,GBP,4,ITM0032,Insulation Material - Thermal,45,86.01,3870.45
+INV00109,2024-02-27,V007,Nordic Parts AB,USD,1,ITM0085,Fasteners - Stainless Steel,79,385.37,30444.23
+INV00109,2024-02-27,V007,Nordic Parts AB,USD,2,ITM0003,Plastic Housings - ABS,27,42.97,1160.19
+INV00109,2024-02-27,V007,Nordic Parts AB,USD,3,ITM0077,Steel Sheets - Grade A,58,302.91,17568.78
+INV00110,2024-05-05,V002,Global Materials Corp,USD,1,ITM0052,Insulation Material - Thermal,30,274.48,8234.4
+INV00110,2024-05-05,V002,Global Materials Corp,USD,2,ITM0097,Steel Sheets - Grade A,18,256.91,4624.38
+INV00110,2024-05-05,V002,Global Materials Corp,USD,3,ITM0038,Plastic Housings - ABS,94,292.29,27475.26
+INV00111,2024-11-02,V019,Iota Supplies,USD,1,ITM0031,Sensor Modules - Temperature,19,492.99,9366.81
+INV00111,2024-11-02,V019,Iota Supplies,USD,2,ITM0067,Plastic Housings - ABS,53,157.25,8334.25
+INV00111,2024-11-02,V019,Iota Supplies,USD,3,ITM0008,Seals - Mechanical,76,441.06,33520.56
+INV00111,2024-11-02,V019,Iota Supplies,USD,4,ITM0023,Fasteners - Stainless Steel,72,252.85,18205.2
+INV00111,2024-11-02,V019,Iota Supplies,USD,5,ITM0045,Lubricants - Synthetic,68,166.18,11300.24
+INV00112,2024-07-28,V014,Beta Polymers Inc,USD,1,ITM0039,Lubricants - Synthetic,24,379.66,9111.84
+INV00112,2024-07-28,V014,Beta Polymers Inc,USD,2,ITM0061,Plastic Housings - ABS,29,157.36,4563.44
+INV00112,2024-07-28,V014,Beta Polymers Inc,USD,3,ITM0091,Rubber Gaskets - High Temp,60,458.22,27493.2
+INV00112,2024-07-28,V014,Beta Polymers Inc,USD,4,ITM0072,Fasteners - Stainless Steel,54,283.07,15285.78
+INV00113,2024-07-17,V005,Pacific Trading Co,CAD,1,ITM0033,Aluminum Extrusions - Custom,43,326.89,14056.27
+INV00113,2024-07-17,V005,Pacific Trading Co,CAD,2,ITM0058,Filter Elements - HEPA,12,272.46,3269.52
+INV00113,2024-07-17,V005,Pacific Trading Co,CAD,3,ITM0025,Steel Sheets - Grade A,35,194.81,6818.35
+INV00113,2024-07-17,V005,Pacific Trading Co,CAD,4,ITM0078,Gearboxes - Planetary,6,438.07,2628.42
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,1,ITM0028,Power Supplies - 500W,27,436.04,11773.08
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,2,ITM0043,Sensor Modules - Temperature,2,113.79,227.58
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,3,ITM0025,Hydraulic Fittings - Standard,96,499.79,47979.84
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,4,ITM0062,Plastic Housings - ABS,90,306.16,27554.4
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,5,ITM0027,Lubricants - Synthetic,31,280.52,8696.12
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,6,ITM0100,Sensor Modules - Temperature,49,238.46,11684.54
+INV00114,2024-10-27,V007,Nordic Parts AB,JPY,7,ITM0084,Filter Elements - HEPA,40,138.17,5526.8
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,1,ITM0013,Power Supplies - 500W,98,421.47,41304.06
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,2,ITM0027,Filter Elements - HEPA,41,212.83,8726.03
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,3,ITM0073,Plastic Housings - ABS,95,81.5,7742.5
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,4,ITM0034,Seals - Mechanical,75,293.78,22033.5
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,5,ITM0054,Sensor Modules - Temperature,20,106.13,2122.6
+INV00115,2024-09-11,V017,Zeta Packaging,EUR,6,ITM0030,Lubricants - Synthetic,73,418.35,30539.55
+INV00116,2024-10-08,V016,Epsilon Motors,JPY,1,ITM0033,Power Supplies - 500W,93,324.43,30171.99
+INV00116,2024-10-08,V016,Epsilon Motors,JPY,2,ITM0063,Insulation Material - Thermal,22,369.06,8119.32
+INV00116,2024-10-08,V016,Epsilon Motors,JPY,3,ITM0046,Copper Wire - 12 AWG,18,362.95,6533.1
+INV00116,2024-10-08,V016,Epsilon Motors,JPY,4,ITM0063,Copper Wire - 12 AWG,70,495.26,34668.2
+INV00116,2024-10-08,V016,Epsilon Motors,JPY,5,ITM0008,Cables - Industrial Grade,5,421.14,2105.7
+INV00117,2024-12-08,V003,TechParts Ltd,JPY,1,ITM0098,Industrial Bearings - Heavy Duty,53,77.37,4100.61
+INV00117,2024-12-08,V003,TechParts Ltd,JPY,2,ITM0081,Plastic Housings - ABS,9,356.51,3208.59
+INV00117,2024-12-08,V003,TechParts Ltd,JPY,3,ITM0002,Aluminum Extrusions - Custom,65,233.44,15173.6
+INV00118,2024-11-12,V002,Global Materials Corp,USD,1,ITM0062,Power Supplies - 500W,3,13.24,39.72
+INV00118,2024-11-12,V002,Global Materials Corp,USD,2,ITM0071,Fasteners - Stainless Steel,2,18.2,36.4
+INV00118,2024-11-12,V002,Global Materials Corp,USD,3,ITM0093,Precision Motors - DC 24V,69,488.96,33738.24
+INV00118,2024-11-12,V002,Global Materials Corp,USD,4,ITM0003,Cables - Industrial Grade,90,340.28,30625.2
+INV00118,2024-11-12,V002,Global Materials Corp,USD,5,ITM0023,Hydraulic Fittings - Standard,13,266.95,3470.35
+INV00118,2024-11-12,V002,Global Materials Corp,USD,6,ITM0031,Aluminum Extrusions - Custom,80,267.96,21436.8
+INV00118,2024-11-12,V002,Global Materials Corp,USD,7,ITM0046,Precision Motors - DC 24V,51,48.72,2484.72
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,1,ITM0032,Plastic Housings - ABS,39,345.18,13462.02
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,2,ITM0011,Steel Sheets - Grade A,12,208.59,2503.08
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,3,ITM0049,Seals - Mechanical,61,37.5,2287.5
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,4,ITM0002,Copper Wire - 12 AWG,11,254.93,2804.23
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,5,ITM0056,Control Valves - Pneumatic,73,488.89,35688.97
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,6,ITM0013,Cables - Industrial Grade,6,122.59,735.54
+INV00119,2024-08-23,V013,Alpha Logistics,JPY,7,ITM0089,Pumps - Centrifugal,61,142.84,8713.24
+INV00120,2024-12-16,V003,TechParts Ltd,EUR,1,ITM0070,Pumps - Centrifugal,85,26.12,2220.2
+INV00120,2024-12-16,V003,TechParts Ltd,EUR,2,ITM0041,Industrial Bearings - Heavy Duty,27,297.65,8036.55
+INV00120,2024-12-16,V003,TechParts Ltd,EUR,3,ITM0097,Lubricants - Synthetic,10,156.65,1566.5
+INV00120,2024-12-16,V003,TechParts Ltd,EUR,4,ITM0073,Plastic Housings - ABS,73,418.98,30585.54
+INV00120,2024-12-16,V003,TechParts Ltd,EUR,5,ITM0050,Seals - Mechanical,43,198.08,8517.44
+INV00121,2024-12-18,V005,Pacific Trading Co,JPY,1,ITM0065,Filter Elements - HEPA,7,57.87,405.09
+INV00121,2024-12-18,V005,Pacific Trading Co,JPY,2,ITM0030,Electronic Components - PCB,44,306.53,13487.32
+INV00121,2024-12-18,V005,Pacific Trading Co,JPY,3,ITM0079,Gearboxes - Planetary,51,484.77,24723.27
+INV00122,2024-01-16,V011,Omega Chemicals,JPY,1,ITM0058,Power Supplies - 500W,30,184.35,5530.5
+INV00122,2024-01-16,V011,Omega Chemicals,JPY,2,ITM0049,Fasteners - Stainless Steel,24,343.05,8233.2
+INV00122,2024-01-16,V011,Omega Chemicals,JPY,3,ITM0085,Lubricants - Synthetic,11,388.36,4271.96
+INV00122,2024-01-16,V011,Omega Chemicals,JPY,4,ITM0038,Plastic Housings - ABS,92,46.02,4233.84
+INV00122,2024-01-16,V011,Omega Chemicals,JPY,5,ITM0035,Rubber Gaskets - High Temp,49,358.72,17577.28
+INV00123,2024-07-18,V005,Pacific Trading Co,USD,1,ITM0047,Hydraulic Fittings - Standard,12,12.55,150.6
+INV00123,2024-07-18,V005,Pacific Trading Co,USD,2,ITM0040,Insulation Material - Thermal,47,383.06,18003.82
+INV00123,2024-07-18,V005,Pacific Trading Co,USD,3,ITM0014,Rubber Gaskets - High Temp,12,101.82,1221.84
+INV00123,2024-07-18,V005,Pacific Trading Co,USD,4,ITM0058,Seals - Mechanical,72,261.1,18799.2
+INV00123,2024-07-18,V005,Pacific Trading Co,USD,5,ITM0014,Industrial Bearings - Heavy Duty,12,183.42,2201.04
+INV00124,2024-11-01,V003,TechParts Ltd,USD,1,ITM0042,Lubricants - Synthetic,2,153.01,306.02
+INV00124,2024-11-01,V003,TechParts Ltd,USD,2,ITM0050,Electronic Components - PCB,93,451.56,41995.08
+INV00124,2024-11-01,V003,TechParts Ltd,USD,3,ITM0032,Pumps - Centrifugal,67,93.1,6237.7
+INV00124,2024-11-01,V003,TechParts Ltd,USD,4,ITM0049,Copper Wire - 12 AWG,18,141.77,2551.86
+INV00124,2024-11-01,V003,TechParts Ltd,USD,5,ITM0035,Power Supplies - 500W,19,41.0,779.0
+INV00124,2024-11-01,V003,TechParts Ltd,USD,6,ITM0056,Precision Motors - DC 24V,54,156.88,8471.52
+INV00124,2024-11-01,V003,TechParts Ltd,USD,7,ITM0010,Filter Elements - HEPA,33,472.67,15598.11
+INV00125,2024-10-31,V016,Epsilon Motors,USD,1,ITM0026,Insulation Material - Thermal,14,76.39,1069.46
+INV00125,2024-10-31,V016,Epsilon Motors,USD,2,ITM0001,Lubricants - Synthetic,43,422.39,18162.77
+INV00125,2024-10-31,V016,Epsilon Motors,USD,3,ITM0049,Control Valves - Pneumatic,57,174.02,9919.14
+INV00125,2024-10-31,V016,Epsilon Motors,USD,4,ITM0084,Gearboxes - Planetary,18,157.21,2829.78
+INV00125,2024-10-31,V016,Epsilon Motors,USD,5,ITM0078,Aluminum Extrusions - Custom,62,163.95,10164.9
+INV00125,2024-10-31,V016,Epsilon Motors,USD,6,ITM0051,Control Valves - Pneumatic,38,370.09,14063.42
+INV00125,2024-10-31,V016,Epsilon Motors,USD,7,ITM0082,Power Supplies - 500W,74,393.17,29094.58
+INV00126,2024-07-11,V011,Omega Chemicals,EUR,1,ITM0051,Filter Elements - HEPA,15,466.71,7000.65
+INV00126,2024-07-11,V011,Omega Chemicals,EUR,2,ITM0026,Pumps - Centrifugal,70,98.16,6871.2
+INV00126,2024-07-11,V011,Omega Chemicals,EUR,3,ITM0099,Seals - Mechanical,4,476.97,1907.88
+INV00126,2024-07-11,V011,Omega Chemicals,EUR,4,ITM0060,Aluminum Extrusions - Custom,57,400.87,22849.59
+INV00126,2024-07-11,V011,Omega Chemicals,EUR,5,ITM0089,Electronic Components - PCB,53,339.76,18007.28
+INV00127,2024-11-20,V005,Pacific Trading Co,JPY,1,ITM0031,Precision Motors - DC 24V,85,85.53,7270.05
+INV00127,2024-11-20,V005,Pacific Trading Co,JPY,2,ITM0055,Lubricants - Synthetic,10,230.04,2300.4
+INV00127,2024-11-20,V005,Pacific Trading Co,JPY,3,ITM0077,Power Supplies - 500W,75,206.39,15479.25
+INV00127,2024-11-20,V005,Pacific Trading Co,JPY,4,ITM0065,Fasteners - Stainless Steel,70,28.01,1960.7
+INV00127,2024-11-20,V005,Pacific Trading Co,JPY,5,ITM0047,Seals - Mechanical,77,322.71,24848.67
+INV00128,2024-02-25,V003,TechParts Ltd,JPY,1,ITM0085,Filter Elements - HEPA,22,327.03,7194.66
+INV00128,2024-02-25,V003,TechParts Ltd,JPY,2,ITM0006,Pumps - Centrifugal,83,341.96,28382.68
+INV00128,2024-02-25,V003,TechParts Ltd,JPY,3,ITM0052,Control Valves - Pneumatic,56,61.91,3466.96
+INV00128,2024-02-25,V003,TechParts Ltd,JPY,4,ITM0013,Precision Motors - DC 24V,29,260.23,7546.67
+INV00129,2024-10-12,V017,Zeta Packaging,USD,1,ITM0089,Pumps - Centrifugal,29,228.43,6624.47
+INV00129,2024-10-12,V017,Zeta Packaging,USD,2,ITM0051,Insulation Material - Thermal,99,342.98,33955.02
+INV00129,2024-10-12,V017,Zeta Packaging,USD,3,ITM0089,Cables - Industrial Grade,20,179.03,3580.6
+INV00129,2024-10-12,V017,Zeta Packaging,USD,4,ITM0004,Power Supplies - 500W,14,154.76,2166.64
+INV00129,2024-10-12,V017,Zeta Packaging,USD,5,ITM0011,Hydraulic Fittings - Standard,94,79.42,7465.48
+INV00129,2024-10-12,V017,Zeta Packaging,USD,6,ITM0040,Control Valves - Pneumatic,59,394.29,23263.11
+INV00129,2024-10-12,V017,Zeta Packaging,USD,7,ITM0067,Power Supplies - 500W,45,243.32,10949.4
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,1,ITM0041,Electronic Components - PCB,39,31.89,1243.71
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,2,ITM0091,Hydraulic Fittings - Standard,3,426.1,1278.3
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,3,ITM0083,Hydraulic Fittings - Standard,87,402.02,34975.74
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,4,ITM0095,Plastic Housings - ABS,67,95.48,6397.16
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,5,ITM0021,Control Valves - Pneumatic,72,218.92,15762.24
+INV00130,2024-12-22,V015,Gamma Textiles,EUR,6,ITM0060,Plastic Housings - ABS,52,318.58,16566.16
+INV00131,2024-11-23,V006,Euro Components SA,EUR,1,ITM0051,Industrial Bearings - Heavy Duty,95,310.91,29536.45
+INV00131,2024-11-23,V006,Euro Components SA,EUR,2,ITM0026,Insulation Material - Thermal,76,220.48,16756.48
+INV00131,2024-11-23,V006,Euro Components SA,EUR,3,ITM0001,Aluminum Extrusions - Custom,27,146.39,3952.53
+INV00131,2024-11-23,V006,Euro Components SA,EUR,4,ITM0091,Electronic Components - PCB,74,59.86,4429.64
+INV00131,2024-11-23,V006,Euro Components SA,EUR,5,ITM0069,Copper Wire - 12 AWG,47,169.73,7977.31
+INV00131,2024-11-23,V006,Euro Components SA,EUR,6,ITM0059,Hydraulic Fittings - Standard,34,338.64,11513.76
+INV00132,2024-09-27,V016,Epsilon Motors,USD,1,ITM0077,Lubricants - Synthetic,79,202.35,15985.65
+INV00132,2024-09-27,V016,Epsilon Motors,USD,2,ITM0015,Filter Elements - HEPA,46,424.3,19517.8
+INV00132,2024-09-27,V016,Epsilon Motors,USD,3,ITM0080,Copper Wire - 12 AWG,87,355.93,30965.91
+INV00132,2024-09-27,V016,Epsilon Motors,USD,4,ITM0039,Gearboxes - Planetary,76,51.53,3916.28
+INV00132,2024-09-27,V016,Epsilon Motors,USD,5,ITM0018,Control Valves - Pneumatic,16,126.9,2030.4
+INV00133,2024-04-03,V004,Industrial Solutions GmbH,USD,1,ITM0089,Rubber Gaskets - High Temp,66,200.35,13223.1
+INV00133,2024-04-03,V004,Industrial Solutions GmbH,USD,2,ITM0077,Rubber Gaskets - High Temp,74,198.02,14653.48
+INV00133,2024-04-03,V004,Industrial Solutions GmbH,USD,3,ITM0024,Power Supplies - 500W,82,273.32,22412.24
+INV00133,2024-04-03,V004,Industrial Solutions GmbH,USD,4,ITM0083,Copper Wire - 12 AWG,72,91.76,6606.72
+INV00133,2024-04-03,V004,Industrial Solutions GmbH,USD,5,ITM0037,Rubber Gaskets - High Temp,24,164.14,3939.36
+INV00134,2024-11-13,V015,Gamma Textiles,USD,1,ITM0046,Industrial Bearings - Heavy Duty,63,76.9,4844.7
+INV00134,2024-11-13,V015,Gamma Textiles,USD,2,ITM0050,Seals - Mechanical,65,330.0,21450.0
+INV00134,2024-11-13,V015,Gamma Textiles,USD,3,ITM0053,Power Supplies - 500W,54,357.97,19330.38
+INV00135,2024-09-07,V015,Gamma Textiles,CAD,1,ITM0011,Pumps - Centrifugal,4,399.98,1599.92
+INV00135,2024-09-07,V015,Gamma Textiles,CAD,2,ITM0029,Sensor Modules - Temperature,5,144.68,723.4
+INV00135,2024-09-07,V015,Gamma Textiles,CAD,3,ITM0069,Sensor Modules - Temperature,22,392.56,8636.32
+INV00135,2024-09-07,V015,Gamma Textiles,CAD,4,ITM0073,Power Supplies - 500W,71,260.29,18480.59
+INV00136,2024-02-28,V019,Iota Supplies,USD,1,ITM0100,Seals - Mechanical,47,275.6,12953.2
+INV00136,2024-02-28,V019,Iota Supplies,USD,2,ITM0097,Steel Sheets - Grade A,98,362.3,35505.4
+INV00136,2024-02-28,V019,Iota Supplies,USD,3,ITM0070,Aluminum Extrusions - Custom,55,60.18,3309.9
+INV00136,2024-02-28,V019,Iota Supplies,USD,4,ITM0084,Plastic Housings - ABS,39,438.66,17107.74
+INV00136,2024-02-28,V019,Iota Supplies,USD,5,ITM0005,Insulation Material - Thermal,34,180.8,6147.2
+INV00137,2024-08-12,V003,TechParts Ltd,EUR,1,ITM0100,Plastic Housings - ABS,27,407.24,10995.48
+INV00137,2024-08-12,V003,TechParts Ltd,EUR,2,ITM0076,Filter Elements - HEPA,91,309.03,28121.73
+INV00137,2024-08-12,V003,TechParts Ltd,EUR,3,ITM0055,Copper Wire - 12 AWG,79,78.23,6180.17
+INV00138,2024-04-15,V007,Nordic Parts AB,GBP,1,ITM0073,Filter Elements - HEPA,69,147.73,10193.37
+INV00138,2024-04-15,V007,Nordic Parts AB,GBP,2,ITM0069,Copper Wire - 12 AWG,42,489.71,20567.82
+INV00138,2024-04-15,V007,Nordic Parts AB,GBP,3,ITM0038,Sensor Modules - Temperature,74,141.0,10434.0
+INV00139,2024-12-13,V017,Zeta Packaging,USD,1,ITM0018,Fasteners - Stainless Steel,8,496.32,3970.56
+INV00139,2024-12-13,V017,Zeta Packaging,USD,2,ITM0084,Rubber Gaskets - High Temp,90,434.38,39094.2
+INV00139,2024-12-13,V017,Zeta Packaging,USD,3,ITM0032,Rubber Gaskets - High Temp,92,167.83,15440.36
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,1,ITM0063,Rubber Gaskets - High Temp,74,319.88,23671.12
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,2,ITM0081,Fasteners - Stainless Steel,49,231.48,11342.52
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,3,ITM0082,Electronic Components - PCB,52,262.65,13657.8
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,4,ITM0036,Filter Elements - HEPA,59,475.62,28061.58
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,5,ITM0042,Pumps - Centrifugal,1,435.76,435.76
+INV00140,2024-12-12,V008,Atlas Manufacturing,CAD,6,ITM0094,Electronic Components - PCB,94,486.35,45716.9
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,1,ITM0051,Aluminum Extrusions - Custom,55,414.18,22779.9
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,2,ITM0064,Precision Motors - DC 24V,42,415.89,17467.38
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,3,ITM0044,Seals - Mechanical,74,73.99,5475.26
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,4,ITM0063,Control Valves - Pneumatic,88,383.5,33748.0
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,5,ITM0006,Hydraulic Fittings - Standard,81,394.11,31922.91
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,6,ITM0059,Industrial Bearings - Heavy Duty,16,465.42,7446.72
+INV00141,2024-02-02,V012,Sigma Steel Works,CAD,7,ITM0021,Insulation Material - Thermal,59,10.33,609.47
+INV00142,2024-04-13,V014,Beta Polymers Inc,USD,1,ITM0084,Sensor Modules - Temperature,21,438.47,9207.87
+INV00142,2024-04-13,V014,Beta Polymers Inc,USD,2,ITM0036,Electronic Components - PCB,84,186.61,15675.24
+INV00142,2024-04-13,V014,Beta Polymers Inc,USD,3,ITM0011,Filter Elements - HEPA,86,452.86,38945.96
+INV00142,2024-04-13,V014,Beta Polymers Inc,USD,4,ITM0022,Steel Sheets - Grade A,51,316.55,16144.05
+INV00143,2024-08-07,V008,Atlas Manufacturing,EUR,1,ITM0091,Hydraulic Fittings - Standard,1,114.58,114.58
+INV00143,2024-08-07,V008,Atlas Manufacturing,EUR,2,ITM0010,Rubber Gaskets - High Temp,76,120.83,9183.08
+INV00143,2024-08-07,V008,Atlas Manufacturing,EUR,3,ITM0088,Insulation Material - Thermal,2,13.95,27.9
+INV00144,2024-03-02,V011,Omega Chemicals,USD,1,ITM0089,Rubber Gaskets - High Temp,62,44.71,2772.02
+INV00144,2024-03-02,V011,Omega Chemicals,USD,2,ITM0050,Electronic Components - PCB,94,404.92,38062.48
+INV00144,2024-03-02,V011,Omega Chemicals,USD,3,ITM0014,Control Valves - Pneumatic,48,441.68,21200.64
+INV00144,2024-03-02,V011,Omega Chemicals,USD,4,ITM0018,Lubricants - Synthetic,100,408.55,40855.0
+INV00144,2024-03-02,V011,Omega Chemicals,USD,5,ITM0018,Rubber Gaskets - High Temp,9,269.95,2429.55
+INV00144,2024-03-02,V011,Omega Chemicals,USD,6,ITM0002,Gearboxes - Planetary,84,90.42,7595.28
+INV00145,2024-04-19,V012,Sigma Steel Works,USD,1,ITM0053,Gearboxes - Planetary,88,226.77,19955.76
+INV00145,2024-04-19,V012,Sigma Steel Works,USD,2,ITM0028,Electronic Components - PCB,13,78.61,1021.93
+INV00145,2024-04-19,V012,Sigma Steel Works,USD,3,ITM0016,Pumps - Centrifugal,94,198.18,18628.92
+INV00145,2024-04-19,V012,Sigma Steel Works,USD,4,ITM0055,Control Valves - Pneumatic,18,131.42,2365.56
+INV00146,2024-05-07,V003,TechParts Ltd,USD,1,ITM0077,Gearboxes - Planetary,93,307.72,28617.96
+INV00146,2024-05-07,V003,TechParts Ltd,USD,2,ITM0100,Industrial Bearings - Heavy Duty,85,439.16,37328.6
+INV00146,2024-05-07,V003,TechParts Ltd,USD,3,ITM0027,Cables - Industrial Grade,78,259.67,20254.26
+INV00146,2024-05-07,V003,TechParts Ltd,USD,4,ITM0096,Lubricants - Synthetic,38,326.62,12411.56
+INV00146,2024-05-07,V003,TechParts Ltd,USD,5,ITM0031,Power Supplies - 500W,50,65.24,3262.0
+INV00146,2024-05-07,V003,TechParts Ltd,USD,6,ITM0064,Gearboxes - Planetary,10,268.86,2688.6
+INV00146,2024-05-07,V003,TechParts Ltd,USD,7,ITM0002,Filter Elements - HEPA,41,74.67,3061.47
+INV00147,2024-08-03,V019,Iota Supplies,EUR,1,ITM0070,Copper Wire - 12 AWG,98,240.8,23598.4
+INV00147,2024-08-03,V019,Iota Supplies,EUR,2,ITM0099,Electronic Components - PCB,3,297.81,893.43
+INV00147,2024-08-03,V019,Iota Supplies,EUR,3,ITM0002,Precision Motors - DC 24V,28,29.52,826.56
+INV00147,2024-08-03,V019,Iota Supplies,EUR,4,ITM0008,Lubricants - Synthetic,65,150.38,9774.7
+INV00147,2024-08-03,V019,Iota Supplies,EUR,5,ITM0092,Cables - Industrial Grade,99,213.56,21142.44
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,1,ITM0069,Gearboxes - Planetary,20,145.96,2919.2
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,2,ITM0040,Electronic Components - PCB,66,461.25,30442.5
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,3,ITM0020,Seals - Mechanical,42,201.46,8461.32
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,4,ITM0082,Electronic Components - PCB,40,352.35,14094.0
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,5,ITM0094,Plastic Housings - ABS,8,129.8,1038.4
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,6,ITM0056,Hydraulic Fittings - Standard,59,310.03,18291.77
+INV00148,2024-02-12,V013,Alpha Logistics,EUR,7,ITM0008,Sensor Modules - Temperature,86,373.43,32114.98
+INV00149,2024-03-02,V006,Euro Components SA,USD,1,ITM0091,Rubber Gaskets - High Temp,90,15.56,1400.4
+INV00149,2024-03-02,V006,Euro Components SA,USD,2,ITM0064,Filter Elements - HEPA,67,263.44,17650.48
+INV00149,2024-03-02,V006,Euro Components SA,USD,3,ITM0093,Precision Motors - DC 24V,22,192.22,4228.84
+INV00150,2024-03-01,V009,Prime Resources LLC,USD,1,ITM0043,Fasteners - Stainless Steel,35,266.69,9334.15
+INV00150,2024-03-01,V009,Prime Resources LLC,USD,2,ITM0034,Pumps - Centrifugal,81,47.76,3868.56
+INV00150,2024-03-01,V009,Prime Resources LLC,USD,3,ITM0059,Cables - Industrial Grade,47,37.17,1746.99
+INV00151,2024-03-26,V019,Iota Supplies,CAD,1,ITM0021,Precision Motors - DC 24V,99,60.42,5981.58
+INV00151,2024-03-26,V019,Iota Supplies,CAD,2,ITM0074,Hydraulic Fittings - Standard,30,372.98,11189.4
+INV00151,2024-03-26,V019,Iota Supplies,CAD,3,ITM0001,Steel Sheets - Grade A,2,129.83,259.66
+INV00151,2024-03-26,V019,Iota Supplies,CAD,4,ITM0061,Filter Elements - HEPA,50,460.91,23045.5
+INV00151,2024-03-26,V019,Iota Supplies,CAD,5,ITM0023,Steel Sheets - Grade A,71,403.53,28650.63
+INV00152,2024-04-24,V014,Beta Polymers Inc,USD,1,ITM0032,Fasteners - Stainless Steel,93,166.77,15509.61
+INV00152,2024-04-24,V014,Beta Polymers Inc,USD,2,ITM0010,Pumps - Centrifugal,48,68.51,3288.48
+INV00152,2024-04-24,V014,Beta Polymers Inc,USD,3,ITM0087,Steel Sheets - Grade A,23,119.36,2745.28
+INV00152,2024-04-24,V014,Beta Polymers Inc,USD,4,ITM0067,Steel Sheets - Grade A,52,43.77,2276.04
+INV00152,2024-04-24,V014,Beta Polymers Inc,USD,5,ITM0060,Sensor Modules - Temperature,100,423.97,42397.0
+INV00153,2024-02-14,V011,Omega Chemicals,USD,1,ITM0059,Industrial Bearings - Heavy Duty,48,108.33,5199.84
+INV00153,2024-02-14,V011,Omega Chemicals,USD,2,ITM0073,Sensor Modules - Temperature,95,315.13,29937.35
+INV00153,2024-02-14,V011,Omega Chemicals,USD,3,ITM0060,Filter Elements - HEPA,76,486.21,36951.96
+INV00153,2024-02-14,V011,Omega Chemicals,USD,4,ITM0099,Aluminum Extrusions - Custom,94,451.22,42414.68
+INV00153,2024-02-14,V011,Omega Chemicals,USD,5,ITM0098,Plastic Housings - ABS,20,13.13,262.6
+INV00153,2024-02-14,V011,Omega Chemicals,USD,6,ITM0053,Industrial Bearings - Heavy Duty,30,275.36,8260.8
+INV00153,2024-02-14,V011,Omega Chemicals,USD,7,ITM0082,Industrial Bearings - Heavy Duty,43,10.72,460.96
+INV00154,2024-06-06,V013,Alpha Logistics,EUR,1,ITM0027,Cables - Industrial Grade,31,215.71,6687.01
+INV00154,2024-06-06,V013,Alpha Logistics,EUR,2,ITM0008,Rubber Gaskets - High Temp,92,147.11,13534.12
+INV00154,2024-06-06,V013,Alpha Logistics,EUR,3,ITM0006,Plastic Housings - ABS,67,212.4,14230.8
+INV00155,2024-08-22,V012,Sigma Steel Works,CAD,1,ITM0075,Hydraulic Fittings - Standard,65,75.42,4902.3
+INV00155,2024-08-22,V012,Sigma Steel Works,CAD,2,ITM0051,Electronic Components - PCB,76,288.23,21905.48
+INV00155,2024-08-22,V012,Sigma Steel Works,CAD,3,ITM0056,Rubber Gaskets - High Temp,31,152.92,4740.52
+INV00156,2024-07-20,V011,Omega Chemicals,USD,1,ITM0041,Insulation Material - Thermal,35,124.47,4356.45
+INV00156,2024-07-20,V011,Omega Chemicals,USD,2,ITM0026,Rubber Gaskets - High Temp,100,387.37,38737.0
+INV00156,2024-07-20,V011,Omega Chemicals,USD,3,ITM0014,Rubber Gaskets - High Temp,14,90.54,1267.56
+INV00156,2024-07-20,V011,Omega Chemicals,USD,4,ITM0060,Control Valves - Pneumatic,53,69.16,3665.48
+INV00156,2024-07-20,V011,Omega Chemicals,USD,5,ITM0046,Aluminum Extrusions - Custom,58,161.07,9342.06
+INV00157,2024-03-02,V009,Prime Resources LLC,GBP,1,ITM0021,Sensor Modules - Temperature,91,351.47,31983.77
+INV00157,2024-03-02,V009,Prime Resources LLC,GBP,2,ITM0006,Aluminum Extrusions - Custom,42,82.68,3472.56
+INV00157,2024-03-02,V009,Prime Resources LLC,GBP,3,ITM0092,Plastic Housings - ABS,46,204.16,9391.36
+INV00158,2024-12-12,V002,Global Materials Corp,GBP,1,ITM0034,Copper Wire - 12 AWG,4,476.53,1906.12
+INV00158,2024-12-12,V002,Global Materials Corp,GBP,2,ITM0058,Seals - Mechanical,96,279.56,26837.76
+INV00158,2024-12-12,V002,Global Materials Corp,GBP,3,ITM0013,Insulation Material - Thermal,14,403.91,5654.74
+INV00158,2024-12-12,V002,Global Materials Corp,GBP,4,ITM0018,Hydraulic Fittings - Standard,2,40.22,80.44
+INV00158,2024-12-12,V002,Global Materials Corp,GBP,5,ITM0100,Plastic Housings - ABS,17,107.09,1820.53
+INV00159,2024-07-09,V013,Alpha Logistics,USD,1,ITM0075,Pumps - Centrifugal,34,459.54,15624.36
+INV00159,2024-07-09,V013,Alpha Logistics,USD,2,ITM0010,Industrial Bearings - Heavy Duty,9,106.9,962.1
+INV00159,2024-07-09,V013,Alpha Logistics,USD,3,ITM0083,Insulation Material - Thermal,17,55.07,936.19
+INV00160,2024-03-03,V011,Omega Chemicals,GBP,1,ITM0060,Steel Sheets - Grade A,22,462.82,10182.04
+INV00160,2024-03-03,V011,Omega Chemicals,GBP,2,ITM0056,Lubricants - Synthetic,64,24.45,1564.8
+INV00160,2024-03-03,V011,Omega Chemicals,GBP,3,ITM0088,Fasteners - Stainless Steel,23,183.43,4218.89
+INV00161,2024-05-20,V006,Euro Components SA,USD,1,ITM0058,Rubber Gaskets - High Temp,5,310.91,1554.55
+INV00161,2024-05-20,V006,Euro Components SA,USD,2,ITM0079,Plastic Housings - ABS,83,154.6,12831.8
+INV00161,2024-05-20,V006,Euro Components SA,USD,3,ITM0053,Seals - Mechanical,62,39.88,2472.56
+INV00161,2024-05-20,V006,Euro Components SA,USD,4,ITM0036,Lubricants - Synthetic,18,215.43,3877.74
+INV00161,2024-05-20,V006,Euro Components SA,USD,5,ITM0083,Cables - Industrial Grade,32,319.07,10210.24
+INV00162,2024-01-10,V018,Theta Instruments,EUR,1,ITM0092,Filter Elements - HEPA,62,276.81,17162.22
+INV00162,2024-01-10,V018,Theta Instruments,EUR,2,ITM0063,Filter Elements - HEPA,73,256.17,18700.41
+INV00162,2024-01-10,V018,Theta Instruments,EUR,3,ITM0050,Precision Motors - DC 24V,24,22.77,546.48
+INV00162,2024-01-10,V018,Theta Instruments,EUR,4,ITM0077,Plastic Housings - ABS,4,448.92,1795.68
+INV00162,2024-01-10,V018,Theta Instruments,EUR,5,ITM0100,Precision Motors - DC 24V,8,406.24,3249.92
+INV00162,2024-01-10,V018,Theta Instruments,EUR,6,ITM0061,Cables - Industrial Grade,46,385.75,17744.5
+INV00163,2024-03-22,V008,Atlas Manufacturing,EUR,1,ITM0032,Plastic Housings - ABS,35,271.51,9502.85
+INV00163,2024-03-22,V008,Atlas Manufacturing,EUR,2,ITM0095,Steel Sheets - Grade A,98,498.23,48826.54
+INV00163,2024-03-22,V008,Atlas Manufacturing,EUR,3,ITM0029,Pumps - Centrifugal,50,183.85,9192.5
+INV00164,2024-03-31,V006,Euro Components SA,EUR,1,ITM0076,Control Valves - Pneumatic,95,351.84,33424.8
+INV00164,2024-03-31,V006,Euro Components SA,EUR,2,ITM0076,Industrial Bearings - Heavy Duty,91,353.27,32147.57
+INV00164,2024-03-31,V006,Euro Components SA,EUR,3,ITM0073,Pumps - Centrifugal,19,285.92,5432.48
+INV00164,2024-03-31,V006,Euro Components SA,EUR,4,ITM0025,Power Supplies - 500W,70,161.44,11300.8
+INV00165,2024-01-20,V016,Epsilon Motors,USD,1,ITM0008,Plastic Housings - ABS,78,117.22,9143.16
+INV00165,2024-01-20,V016,Epsilon Motors,USD,2,ITM0068,Power Supplies - 500W,1,172.55,172.55
+INV00165,2024-01-20,V016,Epsilon Motors,USD,3,ITM0079,Aluminum Extrusions - Custom,17,176.97,3008.49
+INV00166,2024-06-14,V006,Euro Components SA,JPY,1,ITM0003,Rubber Gaskets - High Temp,76,355.3,27002.8
+INV00166,2024-06-14,V006,Euro Components SA,JPY,2,ITM0019,Hydraulic Fittings - Standard,68,431.73,29357.64
+INV00166,2024-06-14,V006,Euro Components SA,JPY,3,ITM0010,Filter Elements - HEPA,91,471.54,42910.14
+INV00167,2024-10-27,V013,Alpha Logistics,USD,1,ITM0044,Sensor Modules - Temperature,42,76.86,3228.12
+INV00167,2024-10-27,V013,Alpha Logistics,USD,2,ITM0021,Fasteners - Stainless Steel,82,480.72,39419.04
+INV00167,2024-10-27,V013,Alpha Logistics,USD,3,ITM0084,Control Valves - Pneumatic,23,356.52,8199.96
+INV00168,2024-12-21,V018,Theta Instruments,USD,1,ITM0046,Plastic Housings - ABS,86,298.59,25678.74
+INV00168,2024-12-21,V018,Theta Instruments,USD,2,ITM0023,Lubricants - Synthetic,40,369.66,14786.4
+INV00168,2024-12-21,V018,Theta Instruments,USD,3,ITM0038,Rubber Gaskets - High Temp,23,367.13,8443.99
+INV00168,2024-12-21,V018,Theta Instruments,USD,4,ITM0090,Pumps - Centrifugal,51,426.87,21770.37
+INV00168,2024-12-21,V018,Theta Instruments,USD,5,ITM0099,Pumps - Centrifugal,5,99.22,496.1
+INV00168,2024-12-21,V018,Theta Instruments,USD,6,ITM0041,Gearboxes - Planetary,29,323.43,9379.47
+INV00168,2024-12-21,V018,Theta Instruments,USD,7,ITM0014,Power Supplies - 500W,19,172.27,3273.13
+INV00169,2024-05-01,V003,TechParts Ltd,USD,1,ITM0041,Copper Wire - 12 AWG,82,443.81,36392.42
+INV00169,2024-05-01,V003,TechParts Ltd,USD,2,ITM0012,Control Valves - Pneumatic,58,15.58,903.64
+INV00169,2024-05-01,V003,TechParts Ltd,USD,3,ITM0027,Plastic Housings - ABS,89,43.22,3846.58
+INV00169,2024-05-01,V003,TechParts Ltd,USD,4,ITM0033,Hydraulic Fittings - Standard,93,10.63,988.59
+INV00169,2024-05-01,V003,TechParts Ltd,USD,5,ITM0050,Insulation Material - Thermal,94,215.63,20269.22
+INV00170,2024-07-30,V006,Euro Components SA,EUR,1,ITM0049,Filter Elements - HEPA,70,193.92,13574.4
+INV00170,2024-07-30,V006,Euro Components SA,EUR,2,ITM0062,Pumps - Centrifugal,84,381.54,32049.36
+INV00170,2024-07-30,V006,Euro Components SA,EUR,3,ITM0029,Copper Wire - 12 AWG,58,46.12,2674.96
+INV00170,2024-07-30,V006,Euro Components SA,EUR,4,ITM0005,Sensor Modules - Temperature,3,166.17,498.51
+INV00170,2024-07-30,V006,Euro Components SA,EUR,5,ITM0014,Electronic Components - PCB,44,93.35,4107.4
+INV00170,2024-07-30,V006,Euro Components SA,EUR,6,ITM0049,Copper Wire - 12 AWG,94,46.75,4394.5
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,1,ITM0079,Power Supplies - 500W,91,25.19,2292.29
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,2,ITM0084,Copper Wire - 12 AWG,78,445.98,34786.44
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,3,ITM0021,Steel Sheets - Grade A,13,172.24,2239.12
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,4,ITM0025,Fasteners - Stainless Steel,90,281.52,25336.8
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,5,ITM0094,Seals - Mechanical,34,333.69,11345.46
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,6,ITM0039,Plastic Housings - ABS,13,34.32,446.16
+INV00171,2024-06-22,V003,TechParts Ltd,GBP,7,ITM0074,Seals - Mechanical,63,85.26,5371.38
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,1,ITM0012,Sensor Modules - Temperature,85,316.29,26884.65
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,2,ITM0062,Aluminum Extrusions - Custom,13,22.61,293.93
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,3,ITM0022,Sensor Modules - Temperature,11,242.05,2662.55
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,4,ITM0015,Sensor Modules - Temperature,51,240.76,12278.76
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,5,ITM0085,Precision Motors - DC 24V,12,324.51,3894.12
+INV00172,2024-01-02,V012,Sigma Steel Works,USD,6,ITM0050,Copper Wire - 12 AWG,48,443.89,21306.72
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,1,ITM0006,Precision Motors - DC 24V,57,237.88,13559.16
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,2,ITM0029,Precision Motors - DC 24V,73,40.2,2934.6
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,3,ITM0097,Hydraulic Fittings - Standard,11,337.39,3711.29
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,4,ITM0070,Fasteners - Stainless Steel,97,298.97,29000.09
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,5,ITM0071,Steel Sheets - Grade A,50,411.02,20551.0
+INV00173,2024-04-05,V012,Sigma Steel Works,EUR,6,ITM0054,Seals - Mechanical,88,434.78,38260.64
+INV00174,2024-10-20,V016,Epsilon Motors,USD,1,ITM0061,Sensor Modules - Temperature,11,203.45,2237.95
+INV00174,2024-10-20,V016,Epsilon Motors,USD,2,ITM0092,Steel Sheets - Grade A,65,289.9,18843.5
+INV00174,2024-10-20,V016,Epsilon Motors,USD,3,ITM0067,Pumps - Centrifugal,87,491.55,42764.85
+INV00174,2024-10-20,V016,Epsilon Motors,USD,4,ITM0019,Hydraulic Fittings - Standard,97,230.03,22312.91
+INV00175,2024-04-18,V006,Euro Components SA,EUR,1,ITM0017,Steel Sheets - Grade A,55,48.4,2662.0
+INV00175,2024-04-18,V006,Euro Components SA,EUR,2,ITM0088,Fasteners - Stainless Steel,26,498.66,12965.16
+INV00175,2024-04-18,V006,Euro Components SA,EUR,3,ITM0081,Rubber Gaskets - High Temp,77,136.36,10499.72
+INV00175,2024-04-18,V006,Euro Components SA,EUR,4,ITM0094,Electronic Components - PCB,12,200.17,2402.04
+INV00176,2024-10-09,V013,Alpha Logistics,USD,1,ITM0036,Cables - Industrial Grade,59,459.41,27105.19
+INV00176,2024-10-09,V013,Alpha Logistics,USD,2,ITM0002,Gearboxes - Planetary,76,266.06,20220.56
+INV00176,2024-10-09,V013,Alpha Logistics,USD,3,ITM0054,Hydraulic Fittings - Standard,54,83.32,4499.28
+INV00176,2024-10-09,V013,Alpha Logistics,USD,4,ITM0073,Pumps - Centrifugal,75,381.6,28620.0
+INV00176,2024-10-09,V013,Alpha Logistics,USD,5,ITM0013,Hydraulic Fittings - Standard,73,391.98,28614.54
+INV00177,2024-10-01,V010,Delta Electronics,GBP,1,ITM0053,Precision Motors - DC 24V,50,330.85,16542.5
+INV00177,2024-10-01,V010,Delta Electronics,GBP,2,ITM0074,Gearboxes - Planetary,61,28.36,1729.96
+INV00177,2024-10-01,V010,Delta Electronics,GBP,3,ITM0036,Lubricants - Synthetic,19,312.94,5945.86
+INV00177,2024-10-01,V010,Delta Electronics,GBP,4,ITM0088,Lubricants - Synthetic,5,203.94,1019.7
+INV00177,2024-10-01,V010,Delta Electronics,GBP,5,ITM0043,Plastic Housings - ABS,7,375.42,2627.94
+INV00178,2024-07-09,V009,Prime Resources LLC,USD,1,ITM0044,Sensor Modules - Temperature,40,147.37,5894.8
+INV00178,2024-07-09,V009,Prime Resources LLC,USD,2,ITM0063,Hydraulic Fittings - Standard,30,75.85,2275.5
+INV00178,2024-07-09,V009,Prime Resources LLC,USD,3,ITM0096,Insulation Material - Thermal,100,414.65,41465.0
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,1,ITM0083,Electronic Components - PCB,25,226.44,5661.0
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,2,ITM0053,Power Supplies - 500W,98,263.09,25782.82
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,3,ITM0048,Steel Sheets - Grade A,66,397.83,26256.78
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,4,ITM0009,Sensor Modules - Temperature,91,258.33,23508.03
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,5,ITM0018,Cables - Industrial Grade,73,24.18,1765.14
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,6,ITM0025,Aluminum Extrusions - Custom,8,132.25,1058.0
+INV00179,2024-08-01,V009,Prime Resources LLC,CAD,7,ITM0059,Steel Sheets - Grade A,47,355.27,16697.69
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,1,ITM0065,Lubricants - Synthetic,82,462.31,37909.42
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,2,ITM0088,Industrial Bearings - Heavy Duty,31,192.51,5967.81
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,3,ITM0077,Insulation Material - Thermal,23,480.65,11054.95
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,4,ITM0061,Pumps - Centrifugal,71,181.38,12877.98
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,5,ITM0021,Precision Motors - DC 24V,96,417.13,40044.48
+INV00180,2024-07-07,V009,Prime Resources LLC,USD,6,ITM0012,Sensor Modules - Temperature,4,199.42,797.68
+INV00181,2024-10-19,V006,Euro Components SA,USD,1,ITM0029,Plastic Housings - ABS,87,111.3,9683.1
+INV00181,2024-10-19,V006,Euro Components SA,USD,2,ITM0084,Fasteners - Stainless Steel,66,19.83,1308.78
+INV00181,2024-10-19,V006,Euro Components SA,USD,3,ITM0100,Industrial Bearings - Heavy Duty,61,456.64,27855.04
+INV00181,2024-10-19,V006,Euro Components SA,USD,4,ITM0083,Copper Wire - 12 AWG,77,402.42,30986.34
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,1,ITM0040,Precision Motors - DC 24V,55,448.79,24683.45
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,2,ITM0045,Insulation Material - Thermal,33,116.92,3858.36
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,3,ITM0039,Cables - Industrial Grade,80,204.6,16368.0
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,4,ITM0014,Industrial Bearings - Heavy Duty,66,499.72,32981.52
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,5,ITM0048,Seals - Mechanical,83,300.95,24978.85
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,6,ITM0037,Sensor Modules - Temperature,88,62.97,5541.36
+INV00182,2024-05-09,V008,Atlas Manufacturing,USD,7,ITM0009,Control Valves - Pneumatic,36,323.89,11660.04
+INV00183,2024-05-13,V009,Prime Resources LLC,CAD,1,ITM0025,Rubber Gaskets - High Temp,67,385.08,25800.36
+INV00183,2024-05-13,V009,Prime Resources LLC,CAD,2,ITM0008,Gearboxes - Planetary,52,333.66,17350.32
+INV00183,2024-05-13,V009,Prime Resources LLC,CAD,3,ITM0088,Rubber Gaskets - High Temp,93,22.47,2089.71
+INV00183,2024-05-13,V009,Prime Resources LLC,CAD,4,ITM0064,Sensor Modules - Temperature,34,454.39,15449.26
+INV00183,2024-05-13,V009,Prime Resources LLC,CAD,5,ITM0052,Lubricants - Synthetic,95,27.31,2594.45
+INV00184,2024-04-07,V019,Iota Supplies,JPY,1,ITM0093,Plastic Housings - ABS,88,271.97,23933.36
+INV00184,2024-04-07,V019,Iota Supplies,JPY,2,ITM0061,Filter Elements - HEPA,65,157.1,10211.5
+INV00184,2024-04-07,V019,Iota Supplies,JPY,3,ITM0022,Seals - Mechanical,24,153.95,3694.8
+INV00184,2024-04-07,V019,Iota Supplies,JPY,4,ITM0061,Rubber Gaskets - High Temp,95,136.74,12990.3
+INV00184,2024-04-07,V019,Iota Supplies,JPY,5,ITM0072,Copper Wire - 12 AWG,88,450.8,39670.4
+INV00185,2024-04-23,V003,TechParts Ltd,USD,1,ITM0029,Sensor Modules - Temperature,54,396.16,21392.64
+INV00185,2024-04-23,V003,TechParts Ltd,USD,2,ITM0043,Filter Elements - HEPA,34,296.93,10095.62
+INV00185,2024-04-23,V003,TechParts Ltd,USD,3,ITM0060,Hydraulic Fittings - Standard,61,36.3,2214.3
+INV00185,2024-04-23,V003,TechParts Ltd,USD,4,ITM0082,Pumps - Centrifugal,75,472.71,35453.25
+INV00185,2024-04-23,V003,TechParts Ltd,USD,5,ITM0010,Power Supplies - 500W,25,255.23,6380.75
+INV00186,2024-09-28,V013,Alpha Logistics,GBP,1,ITM0053,Steel Sheets - Grade A,20,77.31,1546.2
+INV00186,2024-09-28,V013,Alpha Logistics,GBP,2,ITM0026,Control Valves - Pneumatic,53,493.72,26167.16
+INV00186,2024-09-28,V013,Alpha Logistics,GBP,3,ITM0059,Rubber Gaskets - High Temp,41,432.57,17735.37
+INV00186,2024-09-28,V013,Alpha Logistics,GBP,4,ITM0024,Electronic Components - PCB,63,172.99,10898.37
+INV00186,2024-09-28,V013,Alpha Logistics,GBP,5,ITM0023,Control Valves - Pneumatic,82,38.43,3151.26
+INV00187,2024-05-20,V015,Gamma Textiles,JPY,1,ITM0098,Copper Wire - 12 AWG,74,384.6,28460.4
+INV00187,2024-05-20,V015,Gamma Textiles,JPY,2,ITM0063,Electronic Components - PCB,17,311.1,5288.7
+INV00187,2024-05-20,V015,Gamma Textiles,JPY,3,ITM0082,Fasteners - Stainless Steel,52,220.22,11451.44
+INV00187,2024-05-20,V015,Gamma Textiles,JPY,4,ITM0062,Lubricants - Synthetic,1,28.49,28.49
+INV00188,2024-07-10,V007,Nordic Parts AB,EUR,1,ITM0042,Cables - Industrial Grade,25,18.78,469.5
+INV00188,2024-07-10,V007,Nordic Parts AB,EUR,2,ITM0001,Plastic Housings - ABS,29,349.83,10145.07
+INV00188,2024-07-10,V007,Nordic Parts AB,EUR,3,ITM0045,Sensor Modules - Temperature,17,60.33,1025.61
+INV00189,2024-10-28,V017,Zeta Packaging,EUR,1,ITM0022,Electronic Components - PCB,6,156.12,936.72
+INV00189,2024-10-28,V017,Zeta Packaging,EUR,2,ITM0038,Insulation Material - Thermal,94,264.94,24904.36
+INV00189,2024-10-28,V017,Zeta Packaging,EUR,3,ITM0068,Control Valves - Pneumatic,56,445.11,24926.16
+INV00189,2024-10-28,V017,Zeta Packaging,EUR,4,ITM0018,Control Valves - Pneumatic,63,186.03,11719.89
+INV00189,2024-10-28,V017,Zeta Packaging,EUR,5,ITM0025,Copper Wire - 12 AWG,52,19.37,1007.24
+INV00190,2024-03-08,V008,Atlas Manufacturing,USD,1,ITM0094,Industrial Bearings - Heavy Duty,76,257.27,19552.52
+INV00190,2024-03-08,V008,Atlas Manufacturing,USD,2,ITM0016,Filter Elements - HEPA,92,328.76,30245.92
+INV00190,2024-03-08,V008,Atlas Manufacturing,USD,3,ITM0005,Lubricants - Synthetic,82,135.34,11097.88
+INV00190,2024-03-08,V008,Atlas Manufacturing,USD,4,ITM0069,Gearboxes - Planetary,7,301.02,2107.14
+INV00191,2024-12-04,V002,Global Materials Corp,USD,1,ITM0084,Industrial Bearings - Heavy Duty,7,347.98,2435.86
+INV00191,2024-12-04,V002,Global Materials Corp,USD,2,ITM0054,Insulation Material - Thermal,49,70.56,3457.44
+INV00191,2024-12-04,V002,Global Materials Corp,USD,3,ITM0033,Power Supplies - 500W,90,85.03,7652.7
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,1,ITM0085,Hydraulic Fittings - Standard,85,264.95,22520.75
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,2,ITM0080,Gearboxes - Planetary,90,77.21,6948.9
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,3,ITM0014,Cables - Industrial Grade,93,312.67,29078.31
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,4,ITM0037,Hydraulic Fittings - Standard,14,253.89,3554.46
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,5,ITM0078,Aluminum Extrusions - Custom,100,138.87,13887.0
+INV00192,2024-06-03,V001,Acme Supplies Inc,JPY,6,ITM0067,Aluminum Extrusions - Custom,46,354.68,16315.28
+INV00193,2024-03-23,V010,Delta Electronics,CAD,1,ITM0071,Power Supplies - 500W,27,347.22,9374.94
+INV00193,2024-03-23,V010,Delta Electronics,CAD,2,ITM0062,Control Valves - Pneumatic,31,11.34,351.54
+INV00193,2024-03-23,V010,Delta Electronics,CAD,3,ITM0086,Electronic Components - PCB,15,419.26,6288.9
+INV00194,2024-03-17,V016,Epsilon Motors,EUR,1,ITM0100,Cables - Industrial Grade,10,364.55,3645.5
+INV00194,2024-03-17,V016,Epsilon Motors,EUR,2,ITM0013,Precision Motors - DC 24V,83,123.27,10231.41
+INV00194,2024-03-17,V016,Epsilon Motors,EUR,3,ITM0038,Precision Motors - DC 24V,60,34.54,2072.4
+INV00195,2024-01-21,V006,Euro Components SA,USD,1,ITM0047,Control Valves - Pneumatic,55,371.88,20453.4
+INV00195,2024-01-21,V006,Euro Components SA,USD,2,ITM0013,Steel Sheets - Grade A,2,427.48,854.96
+INV00195,2024-01-21,V006,Euro Components SA,USD,3,ITM0085,Copper Wire - 12 AWG,43,185.19,7963.17
+INV00195,2024-01-21,V006,Euro Components SA,USD,4,ITM0057,Gearboxes - Planetary,35,440.45,15415.75
+INV00195,2024-01-21,V006,Euro Components SA,USD,5,ITM0012,Filter Elements - HEPA,44,99.61,4382.84
+INV00196,2024-07-23,V013,Alpha Logistics,USD,1,ITM0035,Lubricants - Synthetic,89,426.83,37987.87
+INV00196,2024-07-23,V013,Alpha Logistics,USD,2,ITM0054,Copper Wire - 12 AWG,15,74.93,1123.95
+INV00196,2024-07-23,V013,Alpha Logistics,USD,3,ITM0093,Steel Sheets - Grade A,21,60.82,1277.22
+INV00196,2024-07-23,V013,Alpha Logistics,USD,4,ITM0076,Power Supplies - 500W,73,342.41,24995.93
+INV00196,2024-07-23,V013,Alpha Logistics,USD,5,ITM0024,Gearboxes - Planetary,49,391.79,19197.71
+INV00196,2024-07-23,V013,Alpha Logistics,USD,6,ITM0079,Industrial Bearings - Heavy Duty,88,441.18,38823.84
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,1,ITM0015,Fasteners - Stainless Steel,57,32.53,1854.21
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,2,ITM0034,Control Valves - Pneumatic,2,355.24,710.48
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,3,ITM0087,Cables - Industrial Grade,99,374.38,37063.62
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,4,ITM0093,Pumps - Centrifugal,29,489.17,14185.93
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,5,ITM0086,Control Valves - Pneumatic,67,266.32,17843.44
+INV00197,2024-09-04,V005,Pacific Trading Co,GBP,6,ITM0090,Gearboxes - Planetary,13,222.1,2887.3
+INV00198,2024-09-03,V008,Atlas Manufacturing,JPY,1,ITM0085,Lubricants - Synthetic,20,421.13,8422.6
+INV00198,2024-09-03,V008,Atlas Manufacturing,JPY,2,ITM0072,Gearboxes - Planetary,7,15.71,109.97
+INV00198,2024-09-03,V008,Atlas Manufacturing,JPY,3,ITM0021,Cables - Industrial Grade,61,427.42,26072.62
+INV00198,2024-09-03,V008,Atlas Manufacturing,JPY,4,ITM0022,Electronic Components - PCB,97,250.91,24338.27
+INV00198,2024-09-03,V008,Atlas Manufacturing,JPY,5,ITM0031,Control Valves - Pneumatic,36,34.67,1248.12
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,1,ITM0052,Plastic Housings - ABS,11,234.96,2584.56
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,2,ITM0074,Insulation Material - Thermal,12,429.73,5156.76
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,3,ITM0058,Control Valves - Pneumatic,16,490.53,7848.48
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,4,ITM0096,Industrial Bearings - Heavy Duty,14,207.69,2907.66
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,5,ITM0005,Seals - Mechanical,71,10.08,715.68
+INV00199,2024-10-08,V008,Atlas Manufacturing,JPY,6,ITM0012,Gearboxes - Planetary,80,322.39,25791.2
+INV00200,2024-10-14,V017,Zeta Packaging,GBP,1,ITM0084,Insulation Material - Thermal,44,188.04,8273.76
+INV00200,2024-10-14,V017,Zeta Packaging,GBP,2,ITM0007,Plastic Housings - ABS,59,172.67,10187.53
+INV00200,2024-10-14,V017,Zeta Packaging,GBP,3,ITM0099,Gearboxes - Planetary,77,241.84,18621.68
+INV00200,2024-10-14,V017,Zeta Packaging,GBP,4,ITM0085,Filter Elements - HEPA,92,231.74,21320.08
+INV00201,2024-12-03,V004,Industrial Solutions GmbH,EUR,1,ITM0001,Control Valves - Pneumatic,46,416.64,19165.44
+INV00201,2024-12-03,V004,Industrial Solutions GmbH,EUR,2,ITM0038,Seals - Mechanical,67,193.21,12945.07
+INV00201,2024-12-03,V004,Industrial Solutions GmbH,EUR,3,ITM0014,Steel Sheets - Grade A,22,251.29,5528.38
+INV00201,2024-12-03,V004,Industrial Solutions GmbH,EUR,4,ITM0092,Fasteners - Stainless Steel,14,134.6,1884.4
+INV00202,2024-04-06,V007,Nordic Parts AB,USD,1,ITM0051,Aluminum Extrusions - Custom,59,414.03,24427.77
+INV00202,2024-04-06,V007,Nordic Parts AB,USD,2,ITM0025,Control Valves - Pneumatic,14,381.0,5334.0
+INV00202,2024-04-06,V007,Nordic Parts AB,USD,3,ITM0006,Pumps - Centrifugal,16,388.35,6213.6
+INV00203,2024-08-22,V015,Gamma Textiles,USD,1,ITM0065,Rubber Gaskets - High Temp,64,12.13,776.32
+INV00203,2024-08-22,V015,Gamma Textiles,USD,2,ITM0095,Steel Sheets - Grade A,71,468.3,33249.3
+INV00203,2024-08-22,V015,Gamma Textiles,USD,3,ITM0075,Power Supplies - 500W,66,392.73,25920.18
+INV00203,2024-08-22,V015,Gamma Textiles,USD,4,ITM0023,Pumps - Centrifugal,23,367.94,8462.62
+INV00203,2024-08-22,V015,Gamma Textiles,USD,5,ITM0017,Hydraulic Fittings - Standard,50,332.19,16609.5
+INV00203,2024-08-22,V015,Gamma Textiles,USD,6,ITM0078,Control Valves - Pneumatic,65,441.88,28722.2
+INV00203,2024-08-22,V015,Gamma Textiles,USD,7,ITM0054,Gearboxes - Planetary,89,383.56,34136.84
+INV00204,2024-07-22,V009,Prime Resources LLC,JPY,1,ITM0038,Insulation Material - Thermal,18,77.71,1398.78
+INV00204,2024-07-22,V009,Prime Resources LLC,JPY,2,ITM0078,Cables - Industrial Grade,39,423.11,16501.29
+INV00204,2024-07-22,V009,Prime Resources LLC,JPY,3,ITM0071,Control Valves - Pneumatic,92,371.04,34135.68
+INV00204,2024-07-22,V009,Prime Resources LLC,JPY,4,ITM0071,Aluminum Extrusions - Custom,26,112.76,2931.76
+INV00204,2024-07-22,V009,Prime Resources LLC,JPY,5,ITM0092,Sensor Modules - Temperature,88,179.19,15768.72
+INV00205,2024-12-29,V005,Pacific Trading Co,EUR,1,ITM0065,Seals - Mechanical,89,322.07,28664.23
+INV00205,2024-12-29,V005,Pacific Trading Co,EUR,2,ITM0091,Hydraulic Fittings - Standard,98,182.6,17894.8
+INV00205,2024-12-29,V005,Pacific Trading Co,EUR,3,ITM0062,Pumps - Centrifugal,74,471.91,34921.34
+INV00205,2024-12-29,V005,Pacific Trading Co,EUR,4,ITM0091,Fasteners - Stainless Steel,87,376.46,32752.02
+INV00206,2024-05-26,V018,Theta Instruments,USD,1,ITM0002,Cables - Industrial Grade,14,22.38,313.32
+INV00206,2024-05-26,V018,Theta Instruments,USD,2,ITM0019,Steel Sheets - Grade A,86,37.74,3245.64
+INV00206,2024-05-26,V018,Theta Instruments,USD,3,ITM0035,Copper Wire - 12 AWG,37,344.86,12759.82
+INV00206,2024-05-26,V018,Theta Instruments,USD,4,ITM0019,Steel Sheets - Grade A,89,394.34,35096.26
+INV00206,2024-05-26,V018,Theta Instruments,USD,5,ITM0027,Seals - Mechanical,5,185.75,928.75
+INV00206,2024-05-26,V018,Theta Instruments,USD,6,ITM0058,Hydraulic Fittings - Standard,79,435.34,34391.86
+INV00207,2024-04-24,V018,Theta Instruments,USD,1,ITM0050,Plastic Housings - ABS,66,394.31,26024.46
+INV00207,2024-04-24,V018,Theta Instruments,USD,2,ITM0090,Sensor Modules - Temperature,89,335.6,29868.4
+INV00207,2024-04-24,V018,Theta Instruments,USD,3,ITM0049,Lubricants - Synthetic,54,478.78,25854.12
+INV00207,2024-04-24,V018,Theta Instruments,USD,4,ITM0088,Control Valves - Pneumatic,71,36.36,2581.56
+INV00207,2024-04-24,V018,Theta Instruments,USD,5,ITM0096,Precision Motors - DC 24V,26,314.08,8166.08
+INV00207,2024-04-24,V018,Theta Instruments,USD,6,ITM0100,Insulation Material - Thermal,29,456.63,13242.27
+INV00207,2024-04-24,V018,Theta Instruments,USD,7,ITM0091,Filter Elements - HEPA,97,298.31,28936.07
+INV00208,2024-04-10,V020,Kappa Industries,GBP,1,ITM0038,Insulation Material - Thermal,23,491.89,11313.47
+INV00208,2024-04-10,V020,Kappa Industries,GBP,2,ITM0010,Copper Wire - 12 AWG,23,370.19,8514.37
+INV00208,2024-04-10,V020,Kappa Industries,GBP,3,ITM0016,Lubricants - Synthetic,6,219.97,1319.82
+INV00208,2024-04-10,V020,Kappa Industries,GBP,4,ITM0072,Precision Motors - DC 24V,17,88.86,1510.62
+INV00209,2024-01-03,V009,Prime Resources LLC,USD,1,ITM0060,Rubber Gaskets - High Temp,6,85.31,511.86
+INV00209,2024-01-03,V009,Prime Resources LLC,USD,2,ITM0042,Gearboxes - Planetary,7,389.09,2723.63
+INV00209,2024-01-03,V009,Prime Resources LLC,USD,3,ITM0081,Gearboxes - Planetary,85,157.57,13393.45
+INV00209,2024-01-03,V009,Prime Resources LLC,USD,4,ITM0074,Seals - Mechanical,46,45.71,2102.66
+INV00209,2024-01-03,V009,Prime Resources LLC,USD,5,ITM0091,Control Valves - Pneumatic,68,117.78,8009.04
+INV00210,2024-09-23,V006,Euro Components SA,USD,1,ITM0065,Copper Wire - 12 AWG,54,276.11,14909.94
+INV00210,2024-09-23,V006,Euro Components SA,USD,2,ITM0052,Electronic Components - PCB,45,118.39,5327.55
+INV00210,2024-09-23,V006,Euro Components SA,USD,3,ITM0028,Control Valves - Pneumatic,43,186.79,8031.97
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,1,ITM0061,Seals - Mechanical,97,490.76,47603.72
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,2,ITM0002,Hydraulic Fittings - Standard,86,179.54,15440.44
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,3,ITM0031,Gearboxes - Planetary,80,129.48,10358.4
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,4,ITM0006,Control Valves - Pneumatic,49,458.81,22481.69
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,5,ITM0015,Lubricants - Synthetic,33,274.72,9065.76
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,6,ITM0037,Industrial Bearings - Heavy Duty,67,412.83,27659.61
+INV00211,2024-11-12,V007,Nordic Parts AB,EUR,7,ITM0048,Cables - Industrial Grade,66,228.32,15069.12
+INV00212,2024-05-31,V002,Global Materials Corp,GBP,1,ITM0042,Cables - Industrial Grade,11,474.62,5220.82
+INV00212,2024-05-31,V002,Global Materials Corp,GBP,2,ITM0022,Seals - Mechanical,69,13.59,937.71
+INV00212,2024-05-31,V002,Global Materials Corp,GBP,3,ITM0009,Aluminum Extrusions - Custom,86,318.46,27387.56
+INV00212,2024-05-31,V002,Global Materials Corp,GBP,4,ITM0028,Fasteners - Stainless Steel,14,110.73,1550.22
+INV00213,2024-11-27,V014,Beta Polymers Inc,GBP,1,ITM0096,Rubber Gaskets - High Temp,4,235.02,940.08
+INV00213,2024-11-27,V014,Beta Polymers Inc,GBP,2,ITM0043,Steel Sheets - Grade A,12,45.89,550.68
+INV00213,2024-11-27,V014,Beta Polymers Inc,GBP,3,ITM0023,Precision Motors - DC 24V,72,44.52,3205.44
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,1,ITM0050,Insulation Material - Thermal,81,208.18,16862.58
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,2,ITM0041,Industrial Bearings - Heavy Duty,50,339.92,16996.0
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,3,ITM0069,Industrial Bearings - Heavy Duty,83,362.94,30124.02
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,4,ITM0009,Pumps - Centrifugal,6,353.43,2120.58
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,5,ITM0010,Filter Elements - HEPA,65,62.01,4030.65
+INV00214,2024-05-12,V008,Atlas Manufacturing,USD,6,ITM0088,Sensor Modules - Temperature,78,52.39,4086.42
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,1,ITM0085,Industrial Bearings - Heavy Duty,61,86.6,5282.6
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,2,ITM0029,Rubber Gaskets - High Temp,96,201.59,19352.64
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,3,ITM0070,Sensor Modules - Temperature,82,80.6,6609.2
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,4,ITM0087,Filter Elements - HEPA,2,281.23,562.46
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,5,ITM0072,Rubber Gaskets - High Temp,16,30.47,487.52
+INV00215,2024-07-14,V015,Gamma Textiles,GBP,6,ITM0074,Gearboxes - Planetary,51,273.2,13933.2
+INV00216,2024-06-05,V003,TechParts Ltd,USD,1,ITM0096,Filter Elements - HEPA,28,212.2,5941.6
+INV00216,2024-06-05,V003,TechParts Ltd,USD,2,ITM0083,Cables - Industrial Grade,19,88.87,1688.53
+INV00216,2024-06-05,V003,TechParts Ltd,USD,3,ITM0029,Gearboxes - Planetary,33,105.22,3472.26
+INV00216,2024-06-05,V003,TechParts Ltd,USD,4,ITM0024,Pumps - Centrifugal,7,427.18,2990.26
+INV00217,2024-08-24,V018,Theta Instruments,USD,1,ITM0010,Sensor Modules - Temperature,86,43.01,3698.86
+INV00217,2024-08-24,V018,Theta Instruments,USD,2,ITM0013,Aluminum Extrusions - Custom,93,294.49,27387.57
+INV00217,2024-08-24,V018,Theta Instruments,USD,3,ITM0043,Filter Elements - HEPA,17,338.93,5761.81
+INV00217,2024-08-24,V018,Theta Instruments,USD,4,ITM0031,Hydraulic Fittings - Standard,37,313.56,11601.72
+INV00217,2024-08-24,V018,Theta Instruments,USD,5,ITM0025,Control Valves - Pneumatic,63,230.82,14541.66
+INV00217,2024-08-24,V018,Theta Instruments,USD,6,ITM0079,Sensor Modules - Temperature,89,296.24,26365.36
+INV00217,2024-08-24,V018,Theta Instruments,USD,7,ITM0073,Pumps - Centrifugal,47,405.77,19071.19
+INV00218,2024-03-27,V014,Beta Polymers Inc,GBP,1,ITM0041,Plastic Housings - ABS,29,358.98,10410.42
+INV00218,2024-03-27,V014,Beta Polymers Inc,GBP,2,ITM0083,Fasteners - Stainless Steel,36,421.65,15179.4
+INV00218,2024-03-27,V014,Beta Polymers Inc,GBP,3,ITM0018,Control Valves - Pneumatic,62,236.8,14681.6
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,1,ITM0071,Hydraulic Fittings - Standard,23,326.32,7505.36
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,2,ITM0011,Precision Motors - DC 24V,18,446.74,8041.32
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,3,ITM0026,Precision Motors - DC 24V,94,444.3,41764.2
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,4,ITM0010,Electronic Components - PCB,3,426.3,1278.9
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,5,ITM0081,Industrial Bearings - Heavy Duty,75,293.66,22024.5
+INV00219,2024-06-05,V012,Sigma Steel Works,EUR,6,ITM0099,Pumps - Centrifugal,28,454.09,12714.52
+INV00220,2024-05-13,V018,Theta Instruments,JPY,1,ITM0070,Power Supplies - 500W,84,389.85,32747.4
+INV00220,2024-05-13,V018,Theta Instruments,JPY,2,ITM0047,Lubricants - Synthetic,29,446.8,12957.2
+INV00220,2024-05-13,V018,Theta Instruments,JPY,3,ITM0076,Sensor Modules - Temperature,18,237.7,4278.6
+INV00220,2024-05-13,V018,Theta Instruments,JPY,4,ITM0066,Electronic Components - PCB,51,188.29,9602.79
+INV00220,2024-05-13,V018,Theta Instruments,JPY,5,ITM0002,Plastic Housings - ABS,79,345.24,27273.96
+INV00220,2024-05-13,V018,Theta Instruments,JPY,6,ITM0097,Cables - Industrial Grade,18,228.65,4115.7
+INV00220,2024-05-13,V018,Theta Instruments,JPY,7,ITM0023,Pumps - Centrifugal,73,333.11,24317.03
+INV00221,2024-09-04,V005,Pacific Trading Co,GBP,1,ITM0006,Plastic Housings - ABS,98,248.94,24396.12
+INV00221,2024-09-04,V005,Pacific Trading Co,GBP,2,ITM0009,Precision Motors - DC 24V,48,124.67,5984.16
+INV00221,2024-09-04,V005,Pacific Trading Co,GBP,3,ITM0086,Aluminum Extrusions - Custom,67,454.79,30470.93
+INV00221,2024-09-04,V005,Pacific Trading Co,GBP,4,ITM0047,Lubricants - Synthetic,61,459.77,28045.97
+INV00221,2024-09-04,V005,Pacific Trading Co,GBP,5,ITM0006,Steel Sheets - Grade A,84,168.79,14178.36
+INV00222,2024-11-20,V017,Zeta Packaging,EUR,1,ITM0095,Precision Motors - DC 24V,75,276.73,20754.75
+INV00222,2024-11-20,V017,Zeta Packaging,EUR,2,ITM0023,Lubricants - Synthetic,84,195.47,16419.48
+INV00222,2024-11-20,V017,Zeta Packaging,EUR,3,ITM0076,Electronic Components - PCB,67,133.28,8929.76
+INV00222,2024-11-20,V017,Zeta Packaging,EUR,4,ITM0029,Cables - Industrial Grade,52,182.92,9511.84
+INV00222,2024-11-20,V017,Zeta Packaging,EUR,5,ITM0045,Power Supplies - 500W,62,444.71,27572.02
+INV00223,2024-09-13,V001,Acme Supplies Inc,USD,1,ITM0057,Copper Wire - 12 AWG,30,47.77,1433.1
+INV00223,2024-09-13,V001,Acme Supplies Inc,USD,2,ITM0083,Precision Motors - DC 24V,28,83.62,2341.36
+INV00223,2024-09-13,V001,Acme Supplies Inc,USD,3,ITM0021,Filter Elements - HEPA,78,361.48,28195.44
+INV00223,2024-09-13,V001,Acme Supplies Inc,USD,4,ITM0016,Plastic Housings - ABS,54,407.47,22003.38
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,1,ITM0062,Aluminum Extrusions - Custom,76,89.01,6764.76
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,2,ITM0053,Industrial Bearings - Heavy Duty,32,31.14,996.48
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,3,ITM0074,Pumps - Centrifugal,21,76.01,1596.21
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,4,ITM0066,Steel Sheets - Grade A,74,81.96,6065.04
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,5,ITM0022,Precision Motors - DC 24V,24,263.15,6315.6
+INV00224,2024-09-03,V004,Industrial Solutions GmbH,USD,6,ITM0052,Gearboxes - Planetary,73,322.44,23538.12
+INV00225,2024-02-13,V010,Delta Electronics,USD,1,ITM0058,Gearboxes - Planetary,61,434.98,26533.78
+INV00225,2024-02-13,V010,Delta Electronics,USD,2,ITM0022,Plastic Housings - ABS,53,304.41,16133.73
+INV00225,2024-02-13,V010,Delta Electronics,USD,3,ITM0075,Copper Wire - 12 AWG,80,333.23,26658.4
+INV00225,2024-02-13,V010,Delta Electronics,USD,4,ITM0034,Copper Wire - 12 AWG,93,345.94,32172.42
+INV00226,2024-11-01,V015,Gamma Textiles,USD,1,ITM0009,Plastic Housings - ABS,49,198.88,9745.12
+INV00226,2024-11-01,V015,Gamma Textiles,USD,2,ITM0014,Industrial Bearings - Heavy Duty,26,266.13,6919.38
+INV00226,2024-11-01,V015,Gamma Textiles,USD,3,ITM0065,Fasteners - Stainless Steel,20,306.7,6134.0
+INV00226,2024-11-01,V015,Gamma Textiles,USD,4,ITM0023,Power Supplies - 500W,79,303.91,24008.89
+INV00226,2024-11-01,V015,Gamma Textiles,USD,5,ITM0069,Cables - Industrial Grade,97,67.58,6555.26
+INV00226,2024-11-01,V015,Gamma Textiles,USD,6,ITM0062,Rubber Gaskets - High Temp,78,274.25,21391.5
+INV00226,2024-11-01,V015,Gamma Textiles,USD,7,ITM0001,Fasteners - Stainless Steel,67,216.14,14481.38
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,1,ITM0055,Plastic Housings - ABS,62,396.88,24606.56
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,2,ITM0049,Filter Elements - HEPA,76,404.26,30723.76
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,3,ITM0098,Pumps - Centrifugal,13,218.49,2840.37
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,4,ITM0033,Power Supplies - 500W,99,123.93,12269.07
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,5,ITM0011,Sensor Modules - Temperature,77,439.62,33850.74
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,6,ITM0053,Precision Motors - DC 24V,25,12.68,317.0
+INV00227,2024-12-23,V002,Global Materials Corp,CAD,7,ITM0096,Industrial Bearings - Heavy Duty,74,266.04,19686.96
+INV00228,2024-01-04,V017,Zeta Packaging,USD,1,ITM0084,Aluminum Extrusions - Custom,89,404.1,35964.9
+INV00228,2024-01-04,V017,Zeta Packaging,USD,2,ITM0053,Filter Elements - HEPA,14,85.84,1201.76
+INV00228,2024-01-04,V017,Zeta Packaging,USD,3,ITM0084,Pumps - Centrifugal,33,138.04,4555.32
+INV00228,2024-01-04,V017,Zeta Packaging,USD,4,ITM0069,Fasteners - Stainless Steel,73,189.17,13809.41
+INV00228,2024-01-04,V017,Zeta Packaging,USD,5,ITM0036,Lubricants - Synthetic,97,109.81,10651.57
+INV00228,2024-01-04,V017,Zeta Packaging,USD,6,ITM0071,Seals - Mechanical,62,97.57,6049.34
+INV00229,2024-10-11,V018,Theta Instruments,JPY,1,ITM0033,Sensor Modules - Temperature,74,178.73,13226.02
+INV00229,2024-10-11,V018,Theta Instruments,JPY,2,ITM0091,Lubricants - Synthetic,95,77.65,7376.75
+INV00229,2024-10-11,V018,Theta Instruments,JPY,3,ITM0085,Hydraulic Fittings - Standard,96,122.59,11768.64
+INV00229,2024-10-11,V018,Theta Instruments,JPY,4,ITM0090,Copper Wire - 12 AWG,13,115.08,1496.04
+INV00229,2024-10-11,V018,Theta Instruments,JPY,5,ITM0052,Control Valves - Pneumatic,71,310.87,22071.77
+INV00229,2024-10-11,V018,Theta Instruments,JPY,6,ITM0088,Steel Sheets - Grade A,21,200.66,4213.86
+INV00230,2024-02-16,V001,Acme Supplies Inc,EUR,1,ITM0061,Gearboxes - Planetary,56,53.19,2978.64
+INV00230,2024-02-16,V001,Acme Supplies Inc,EUR,2,ITM0034,Plastic Housings - ABS,48,49.22,2362.56
+INV00230,2024-02-16,V001,Acme Supplies Inc,EUR,3,ITM0005,Lubricants - Synthetic,52,310.84,16163.68
+INV00230,2024-02-16,V001,Acme Supplies Inc,EUR,4,ITM0067,Sensor Modules - Temperature,92,482.13,44355.96
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,1,ITM0057,Industrial Bearings - Heavy Duty,26,426.78,11096.28
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,2,ITM0067,Sensor Modules - Temperature,25,26.47,661.75
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,3,ITM0077,Cables - Industrial Grade,67,352.24,23600.08
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,4,ITM0079,Copper Wire - 12 AWG,87,27.67,2407.29
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,5,ITM0031,Industrial Bearings - Heavy Duty,21,52.55,1103.55
+INV00231,2024-03-30,V002,Global Materials Corp,GBP,6,ITM0036,Lubricants - Synthetic,46,338.13,15553.98
+INV00232,2024-10-27,V013,Alpha Logistics,EUR,1,ITM0067,Industrial Bearings - Heavy Duty,95,354.77,33703.15
+INV00232,2024-10-27,V013,Alpha Logistics,EUR,2,ITM0012,Seals - Mechanical,37,365.81,13534.97
+INV00232,2024-10-27,V013,Alpha Logistics,EUR,3,ITM0072,Pumps - Centrifugal,45,180.26,8111.7
+INV00232,2024-10-27,V013,Alpha Logistics,EUR,4,ITM0036,Plastic Housings - ABS,78,481.9,37588.2
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,1,ITM0001,Precision Motors - DC 24V,23,209.5,4818.5
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,2,ITM0014,Seals - Mechanical,10,256.55,2565.5
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,3,ITM0044,Hydraulic Fittings - Standard,66,478.79,31600.14
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,4,ITM0069,Pumps - Centrifugal,33,350.15,11554.95
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,5,ITM0049,Pumps - Centrifugal,62,387.28,24011.36
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,6,ITM0097,Control Valves - Pneumatic,100,234.84,23484.0
+INV00233,2024-07-25,V015,Gamma Textiles,EUR,7,ITM0059,Pumps - Centrifugal,4,246.17,984.68
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,1,ITM0082,Plastic Housings - ABS,87,353.58,30761.46
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,2,ITM0041,Fasteners - Stainless Steel,46,263.09,12102.14
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,3,ITM0002,Precision Motors - DC 24V,32,150.77,4824.64
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,4,ITM0052,Control Valves - Pneumatic,10,281.73,2817.3
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,5,ITM0023,Power Supplies - 500W,41,183.23,7512.43
+INV00234,2024-02-04,V009,Prime Resources LLC,EUR,6,ITM0074,Precision Motors - DC 24V,24,474.09,11378.16
+INV00235,2024-09-12,V007,Nordic Parts AB,USD,1,ITM0031,Plastic Housings - ABS,34,111.32,3784.88
+INV00235,2024-09-12,V007,Nordic Parts AB,USD,2,ITM0026,Plastic Housings - ABS,80,184.45,14756.0
+INV00235,2024-09-12,V007,Nordic Parts AB,USD,3,ITM0100,Hydraulic Fittings - Standard,16,460.89,7374.24
+INV00235,2024-09-12,V007,Nordic Parts AB,USD,4,ITM0087,Power Supplies - 500W,79,13.25,1046.75
+INV00236,2024-01-22,V018,Theta Instruments,GBP,1,ITM0048,Gearboxes - Planetary,41,251.25,10301.25
+INV00236,2024-01-22,V018,Theta Instruments,GBP,2,ITM0074,Precision Motors - DC 24V,63,99.61,6275.43
+INV00236,2024-01-22,V018,Theta Instruments,GBP,3,ITM0098,Cables - Industrial Grade,36,204.96,7378.56
+INV00236,2024-01-22,V018,Theta Instruments,GBP,4,ITM0097,Pumps - Centrifugal,17,36.53,621.01
+INV00236,2024-01-22,V018,Theta Instruments,GBP,5,ITM0055,Power Supplies - 500W,70,25.96,1817.2
+INV00236,2024-01-22,V018,Theta Instruments,GBP,6,ITM0045,Lubricants - Synthetic,88,390.19,34336.72
+INV00237,2024-03-02,V015,Gamma Textiles,USD,1,ITM0059,Control Valves - Pneumatic,89,14.13,1257.57
+INV00237,2024-03-02,V015,Gamma Textiles,USD,2,ITM0087,Aluminum Extrusions - Custom,49,294.69,14439.81
+INV00237,2024-03-02,V015,Gamma Textiles,USD,3,ITM0042,Filter Elements - HEPA,79,432.3,34151.7
+INV00237,2024-03-02,V015,Gamma Textiles,USD,4,ITM0024,Seals - Mechanical,34,126.2,4290.8
+INV00237,2024-03-02,V015,Gamma Textiles,USD,5,ITM0061,Gearboxes - Planetary,44,189.3,8329.2
+INV00237,2024-03-02,V015,Gamma Textiles,USD,6,ITM0064,Fasteners - Stainless Steel,27,215.36,5814.72
+INV00237,2024-03-02,V015,Gamma Textiles,USD,7,ITM0097,Filter Elements - HEPA,47,428.62,20145.14
+INV00238,2024-08-18,V009,Prime Resources LLC,USD,1,ITM0074,Rubber Gaskets - High Temp,74,346.15,25615.1
+INV00238,2024-08-18,V009,Prime Resources LLC,USD,2,ITM0013,Precision Motors - DC 24V,31,282.12,8745.72
+INV00238,2024-08-18,V009,Prime Resources LLC,USD,3,ITM0049,Aluminum Extrusions - Custom,19,402.02,7638.38
+INV00238,2024-08-18,V009,Prime Resources LLC,USD,4,ITM0095,Rubber Gaskets - High Temp,61,404.78,24691.58
+INV00239,2024-08-03,V006,Euro Components SA,EUR,1,ITM0018,Cables - Industrial Grade,69,363.07,25051.83
+INV00239,2024-08-03,V006,Euro Components SA,EUR,2,ITM0063,Sensor Modules - Temperature,33,285.45,9419.85
+INV00239,2024-08-03,V006,Euro Components SA,EUR,3,ITM0073,Steel Sheets - Grade A,51,58.5,2983.5
+INV00239,2024-08-03,V006,Euro Components SA,EUR,4,ITM0021,Steel Sheets - Grade A,28,408.77,11445.56
+INV00239,2024-08-03,V006,Euro Components SA,EUR,5,ITM0061,Hydraulic Fittings - Standard,58,374.85,21741.3
+INV00239,2024-08-03,V006,Euro Components SA,EUR,6,ITM0034,Filter Elements - HEPA,47,284.57,13374.79
+INV00240,2024-06-25,V009,Prime Resources LLC,USD,1,ITM0053,Hydraulic Fittings - Standard,45,435.01,19575.45
+INV00240,2024-06-25,V009,Prime Resources LLC,USD,2,ITM0078,Aluminum Extrusions - Custom,74,292.19,21622.06
+INV00240,2024-06-25,V009,Prime Resources LLC,USD,3,ITM0084,Seals - Mechanical,23,489.89,11267.47
+INV00241,2024-06-30,V010,Delta Electronics,CAD,1,ITM0087,Cables - Industrial Grade,63,389.62,24546.06
+INV00241,2024-06-30,V010,Delta Electronics,CAD,2,ITM0058,Electronic Components - PCB,49,310.7,15224.3
+INV00241,2024-06-30,V010,Delta Electronics,CAD,3,ITM0060,Rubber Gaskets - High Temp,22,323.88,7125.36
+INV00241,2024-06-30,V010,Delta Electronics,CAD,4,ITM0044,Fasteners - Stainless Steel,81,310.03,25112.43
+INV00241,2024-06-30,V010,Delta Electronics,CAD,5,ITM0052,Electronic Components - PCB,11,89.38,983.18
+INV00242,2024-06-09,V008,Atlas Manufacturing,CAD,1,ITM0084,Sensor Modules - Temperature,91,141.06,12836.46
+INV00242,2024-06-09,V008,Atlas Manufacturing,CAD,2,ITM0083,Lubricants - Synthetic,35,444.97,15573.95
+INV00242,2024-06-09,V008,Atlas Manufacturing,CAD,3,ITM0100,Filter Elements - HEPA,96,297.59,28568.64
+INV00242,2024-06-09,V008,Atlas Manufacturing,CAD,4,ITM0058,Fasteners - Stainless Steel,22,100.1,2202.2
+INV00242,2024-06-09,V008,Atlas Manufacturing,CAD,5,ITM0003,Rubber Gaskets - High Temp,94,124.97,11747.18
+INV00243,2024-12-24,V009,Prime Resources LLC,CAD,1,ITM0027,Copper Wire - 12 AWG,51,60.47,3083.97
+INV00243,2024-12-24,V009,Prime Resources LLC,CAD,2,ITM0009,Power Supplies - 500W,71,36.37,2582.27
+INV00243,2024-12-24,V009,Prime Resources LLC,CAD,3,ITM0099,Lubricants - Synthetic,68,384.85,26169.8
+INV00244,2024-02-23,V003,TechParts Ltd,USD,1,ITM0080,Rubber Gaskets - High Temp,11,330.87,3639.57
+INV00244,2024-02-23,V003,TechParts Ltd,USD,2,ITM0050,Sensor Modules - Temperature,30,131.22,3936.6
+INV00244,2024-02-23,V003,TechParts Ltd,USD,3,ITM0037,Insulation Material - Thermal,81,71.94,5827.14
+INV00244,2024-02-23,V003,TechParts Ltd,USD,4,ITM0068,Copper Wire - 12 AWG,4,27.23,108.92
+INV00244,2024-02-23,V003,TechParts Ltd,USD,5,ITM0046,Control Valves - Pneumatic,61,238.92,14574.12
+INV00245,2024-05-19,V018,Theta Instruments,USD,1,ITM0057,Rubber Gaskets - High Temp,90,274.25,24682.5
+INV00245,2024-05-19,V018,Theta Instruments,USD,2,ITM0076,Gearboxes - Planetary,59,319.21,18833.39
+INV00245,2024-05-19,V018,Theta Instruments,USD,3,ITM0082,Pumps - Centrifugal,56,266.5,14924.0
+INV00245,2024-05-19,V018,Theta Instruments,USD,4,ITM0082,Seals - Mechanical,40,455.37,18214.8
+INV00245,2024-05-19,V018,Theta Instruments,USD,5,ITM0062,Seals - Mechanical,30,404.31,12129.3
+INV00245,2024-05-19,V018,Theta Instruments,USD,6,ITM0057,Sensor Modules - Temperature,47,211.98,9963.06
+INV00245,2024-05-19,V018,Theta Instruments,USD,7,ITM0020,Sensor Modules - Temperature,2,10.05,20.1
+INV00246,2024-06-25,V005,Pacific Trading Co,CAD,1,ITM0061,Seals - Mechanical,2,347.01,694.02
+INV00246,2024-06-25,V005,Pacific Trading Co,CAD,2,ITM0063,Power Supplies - 500W,39,14.47,564.33
+INV00246,2024-06-25,V005,Pacific Trading Co,CAD,3,ITM0056,Sensor Modules - Temperature,77,123.3,9494.1
+INV00246,2024-06-25,V005,Pacific Trading Co,CAD,4,ITM0001,Seals - Mechanical,48,102.4,4915.2
+INV00246,2024-06-25,V005,Pacific Trading Co,CAD,5,ITM0072,Fasteners - Stainless Steel,51,132.45,6754.95
+INV00247,2024-07-12,V013,Alpha Logistics,EUR,1,ITM0034,Electronic Components - PCB,55,316.41,17402.55
+INV00247,2024-07-12,V013,Alpha Logistics,EUR,2,ITM0067,Gearboxes - Planetary,89,345.47,30746.83
+INV00247,2024-07-12,V013,Alpha Logistics,EUR,3,ITM0037,Seals - Mechanical,35,212.32,7431.2
+INV00247,2024-07-12,V013,Alpha Logistics,EUR,4,ITM0009,Copper Wire - 12 AWG,18,151.9,2734.2
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,1,ITM0035,Gearboxes - Planetary,63,102.02,6427.26
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,2,ITM0003,Rubber Gaskets - High Temp,7,485.16,3396.12
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,3,ITM0003,Copper Wire - 12 AWG,14,148.24,2075.36
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,4,ITM0017,Insulation Material - Thermal,94,14.02,1317.88
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,5,ITM0012,Rubber Gaskets - High Temp,2,251.85,503.7
+INV00248,2024-11-12,V015,Gamma Textiles,CAD,6,ITM0044,Fasteners - Stainless Steel,40,395.01,15800.4
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,1,ITM0090,Steel Sheets - Grade A,43,49.31,2120.33
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,2,ITM0097,Rubber Gaskets - High Temp,8,140.59,1124.72
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,3,ITM0051,Electronic Components - PCB,70,240.37,16825.9
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,4,ITM0025,Precision Motors - DC 24V,49,415.84,20376.16
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,5,ITM0016,Plastic Housings - ABS,50,387.9,19395.0
+INV00249,2024-07-09,V016,Epsilon Motors,CAD,6,ITM0057,Plastic Housings - ABS,95,497.32,47245.4
+INV00250,2024-08-23,V007,Nordic Parts AB,JPY,1,ITM0067,Aluminum Extrusions - Custom,61,200.67,12240.87
+INV00250,2024-08-23,V007,Nordic Parts AB,JPY,2,ITM0040,Control Valves - Pneumatic,21,318.29,6684.09
+INV00250,2024-08-23,V007,Nordic Parts AB,JPY,3,ITM0006,Seals - Mechanical,67,69.85,4679.95
+INV00251,2024-11-22,V016,Epsilon Motors,USD,1,ITM0026,Filter Elements - HEPA,7,433.19,3032.33
+INV00251,2024-11-22,V016,Epsilon Motors,USD,2,ITM0028,Hydraulic Fittings - Standard,31,320.13,9924.03
+INV00251,2024-11-22,V016,Epsilon Motors,USD,3,ITM0042,Industrial Bearings - Heavy Duty,22,399.25,8783.5
+INV00251,2024-11-22,V016,Epsilon Motors,USD,4,ITM0075,Hydraulic Fittings - Standard,51,396.68,20230.68
+INV00251,2024-11-22,V016,Epsilon Motors,USD,5,ITM0002,Steel Sheets - Grade A,75,393.9,29542.5
+INV00252,2024-12-18,V016,Epsilon Motors,USD,1,ITM0020,Filter Elements - HEPA,99,53.85,5331.15
+INV00252,2024-12-18,V016,Epsilon Motors,USD,2,ITM0021,Power Supplies - 500W,12,346.11,4153.32
+INV00252,2024-12-18,V016,Epsilon Motors,USD,3,ITM0044,Steel Sheets - Grade A,8,184.2,1473.6
+INV00252,2024-12-18,V016,Epsilon Motors,USD,4,ITM0020,Seals - Mechanical,14,71.66,1003.24
+INV00252,2024-12-18,V016,Epsilon Motors,USD,5,ITM0030,Control Valves - Pneumatic,72,396.4,28540.8
+INV00252,2024-12-18,V016,Epsilon Motors,USD,6,ITM0097,Filter Elements - HEPA,57,369.26,21047.82
+INV00252,2024-12-18,V016,Epsilon Motors,USD,7,ITM0003,Lubricants - Synthetic,46,364.96,16788.16
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,1,ITM0091,Insulation Material - Thermal,72,154.41,11117.52
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,2,ITM0090,Power Supplies - 500W,25,287.68,7192.0
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,3,ITM0070,Filter Elements - HEPA,42,368.88,15492.96
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,4,ITM0036,Gearboxes - Planetary,71,88.57,6288.47
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,5,ITM0068,Rubber Gaskets - High Temp,58,154.88,8983.04
+INV00253,2024-01-21,V009,Prime Resources LLC,JPY,6,ITM0034,Seals - Mechanical,47,232.5,10927.5
+INV00254,2024-07-13,V017,Zeta Packaging,USD,1,ITM0003,Gearboxes - Planetary,47,390.25,18341.75
+INV00254,2024-07-13,V017,Zeta Packaging,USD,2,ITM0031,Control Valves - Pneumatic,93,41.04,3816.72
+INV00254,2024-07-13,V017,Zeta Packaging,USD,3,ITM0069,Lubricants - Synthetic,25,266.79,6669.75
+INV00254,2024-07-13,V017,Zeta Packaging,USD,4,ITM0064,Seals - Mechanical,20,310.39,6207.8
+INV00255,2024-07-28,V011,Omega Chemicals,USD,1,ITM0015,Hydraulic Fittings - Standard,67,332.86,22301.62
+INV00255,2024-07-28,V011,Omega Chemicals,USD,2,ITM0006,Rubber Gaskets - High Temp,23,438.01,10074.23
+INV00255,2024-07-28,V011,Omega Chemicals,USD,3,ITM0026,Hydraulic Fittings - Standard,63,103.89,6545.07
+INV00255,2024-07-28,V011,Omega Chemicals,USD,4,ITM0005,Pumps - Centrifugal,83,419.79,34842.57
+INV00255,2024-07-28,V011,Omega Chemicals,USD,5,ITM0085,Power Supplies - 500W,68,315.75,21471.0
+INV00256,2024-05-11,V019,Iota Supplies,EUR,1,ITM0047,Plastic Housings - ABS,78,361.74,28215.72
+INV00256,2024-05-11,V019,Iota Supplies,EUR,2,ITM0002,Aluminum Extrusions - Custom,84,250.79,21066.36
+INV00256,2024-05-11,V019,Iota Supplies,EUR,3,ITM0011,Insulation Material - Thermal,82,39.74,3258.68
+INV00257,2024-07-31,V018,Theta Instruments,CAD,1,ITM0091,Steel Sheets - Grade A,79,140.25,11079.75
+INV00257,2024-07-31,V018,Theta Instruments,CAD,2,ITM0006,Electronic Components - PCB,39,48.19,1879.41
+INV00257,2024-07-31,V018,Theta Instruments,CAD,3,ITM0028,Cables - Industrial Grade,13,59.6,774.8
+INV00257,2024-07-31,V018,Theta Instruments,CAD,4,ITM0030,Seals - Mechanical,50,102.84,5142.0
+INV00257,2024-07-31,V018,Theta Instruments,CAD,5,ITM0068,Plastic Housings - ABS,73,316.41,23097.93
+INV00258,2024-10-12,V006,Euro Components SA,GBP,1,ITM0054,Hydraulic Fittings - Standard,99,322.93,31970.07
+INV00258,2024-10-12,V006,Euro Components SA,GBP,2,ITM0046,Insulation Material - Thermal,90,335.97,30237.3
+INV00258,2024-10-12,V006,Euro Components SA,GBP,3,ITM0014,Copper Wire - 12 AWG,24,279.48,6707.52
+INV00258,2024-10-12,V006,Euro Components SA,GBP,4,ITM0065,Control Valves - Pneumatic,85,87.51,7438.35
+INV00258,2024-10-12,V006,Euro Components SA,GBP,5,ITM0077,Insulation Material - Thermal,46,452.22,20802.12
+INV00258,2024-10-12,V006,Euro Components SA,GBP,6,ITM0071,Control Valves - Pneumatic,48,212.05,10178.4
+INV00258,2024-10-12,V006,Euro Components SA,GBP,7,ITM0082,Fasteners - Stainless Steel,93,168.49,15669.57
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,1,ITM0028,Lubricants - Synthetic,99,279.62,27682.38
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,2,ITM0096,Precision Motors - DC 24V,47,481.21,22616.87
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,3,ITM0058,Lubricants - Synthetic,1,365.89,365.89
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,4,ITM0037,Gearboxes - Planetary,3,263.63,790.89
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,5,ITM0039,Industrial Bearings - Heavy Duty,39,492.35,19201.65
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,6,ITM0028,Control Valves - Pneumatic,3,388.05,1164.15
+INV00259,2024-10-15,V008,Atlas Manufacturing,EUR,7,ITM0089,Precision Motors - DC 24V,71,260.52,18496.92
+INV00260,2024-10-19,V019,Iota Supplies,USD,1,ITM0013,Steel Sheets - Grade A,59,184.27,10871.93
+INV00260,2024-10-19,V019,Iota Supplies,USD,2,ITM0018,Precision Motors - DC 24V,47,445.92,20958.24
+INV00260,2024-10-19,V019,Iota Supplies,USD,3,ITM0032,Plastic Housings - ABS,33,407.43,13445.19
+INV00260,2024-10-19,V019,Iota Supplies,USD,4,ITM0012,Pumps - Centrifugal,52,288.84,15019.68
+INV00261,2024-02-09,V007,Nordic Parts AB,EUR,1,ITM0062,Copper Wire - 12 AWG,63,414.6,26119.8
+INV00261,2024-02-09,V007,Nordic Parts AB,EUR,2,ITM0089,Pumps - Centrifugal,13,301.66,3921.58
+INV00261,2024-02-09,V007,Nordic Parts AB,EUR,3,ITM0039,Steel Sheets - Grade A,94,406.09,38172.46
+INV00261,2024-02-09,V007,Nordic Parts AB,EUR,4,ITM0049,Electronic Components - PCB,100,37.4,3740.0
+INV00261,2024-02-09,V007,Nordic Parts AB,EUR,5,ITM0099,Control Valves - Pneumatic,45,441.1,19849.5
+INV00262,2024-08-01,V014,Beta Polymers Inc,CAD,1,ITM0099,Plastic Housings - ABS,96,329.86,31666.56
+INV00262,2024-08-01,V014,Beta Polymers Inc,CAD,2,ITM0078,Industrial Bearings - Heavy Duty,82,390.94,32057.08
+INV00262,2024-08-01,V014,Beta Polymers Inc,CAD,3,ITM0049,Steel Sheets - Grade A,40,266.95,10678.0
+INV00263,2024-10-03,V011,Omega Chemicals,USD,1,ITM0020,Control Valves - Pneumatic,65,351.91,22874.15
+INV00263,2024-10-03,V011,Omega Chemicals,USD,2,ITM0020,Steel Sheets - Grade A,87,368.47,32056.89
+INV00263,2024-10-03,V011,Omega Chemicals,USD,3,ITM0051,Insulation Material - Thermal,97,301.61,29256.17
+INV00263,2024-10-03,V011,Omega Chemicals,USD,4,ITM0065,Electronic Components - PCB,29,221.65,6427.85
+INV00263,2024-10-03,V011,Omega Chemicals,USD,5,ITM0051,Rubber Gaskets - High Temp,17,174.72,2970.24
+INV00263,2024-10-03,V011,Omega Chemicals,USD,6,ITM0061,Pumps - Centrifugal,96,34.16,3279.36
+INV00263,2024-10-03,V011,Omega Chemicals,USD,7,ITM0052,Precision Motors - DC 24V,11,205.28,2258.08
+INV00264,2024-12-23,V014,Beta Polymers Inc,EUR,1,ITM0098,Rubber Gaskets - High Temp,62,284.06,17611.72
+INV00264,2024-12-23,V014,Beta Polymers Inc,EUR,2,ITM0063,Lubricants - Synthetic,84,289.95,24355.8
+INV00264,2024-12-23,V014,Beta Polymers Inc,EUR,3,ITM0072,Gearboxes - Planetary,95,266.88,25353.6
+INV00264,2024-12-23,V014,Beta Polymers Inc,EUR,4,ITM0032,Electronic Components - PCB,35,390.62,13671.7
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,1,ITM0012,Hydraulic Fittings - Standard,86,212.66,18288.76
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,2,ITM0047,Filter Elements - HEPA,25,167.16,4179.0
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,3,ITM0077,Industrial Bearings - Heavy Duty,99,159.36,15776.64
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,4,ITM0045,Gearboxes - Planetary,57,315.36,17975.52
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,5,ITM0057,Steel Sheets - Grade A,30,107.85,3235.5
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,6,ITM0048,Rubber Gaskets - High Temp,97,366.96,35595.12
+INV00265,2024-12-16,V011,Omega Chemicals,JPY,7,ITM0011,Hydraulic Fittings - Standard,95,36.72,3488.4
+INV00266,2024-03-16,V020,Kappa Industries,GBP,1,ITM0002,Control Valves - Pneumatic,89,404.1,35964.9
+INV00266,2024-03-16,V020,Kappa Industries,GBP,2,ITM0040,Insulation Material - Thermal,61,21.15,1290.15
+INV00266,2024-03-16,V020,Kappa Industries,GBP,3,ITM0027,Seals - Mechanical,28,109.86,3076.08
+INV00266,2024-03-16,V020,Kappa Industries,GBP,4,ITM0067,Precision Motors - DC 24V,71,246.68,17514.28
+INV00266,2024-03-16,V020,Kappa Industries,GBP,5,ITM0094,Rubber Gaskets - High Temp,89,352.39,31362.71
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,1,ITM0085,Cables - Industrial Grade,6,135.17,811.02
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,2,ITM0008,Sensor Modules - Temperature,26,396.7,10314.2
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,3,ITM0080,Precision Motors - DC 24V,7,237.83,1664.81
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,4,ITM0002,Electronic Components - PCB,50,333.58,16679.0
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,5,ITM0085,Filter Elements - HEPA,14,19.35,270.9
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,6,ITM0084,Lubricants - Synthetic,30,490.1,14703.0
+INV00267,2024-07-11,V001,Acme Supplies Inc,GBP,7,ITM0066,Hydraulic Fittings - Standard,41,247.48,10146.68
+INV00268,2024-09-29,V020,Kappa Industries,GBP,1,ITM0024,Aluminum Extrusions - Custom,65,483.73,31442.45
+INV00268,2024-09-29,V020,Kappa Industries,GBP,2,ITM0072,Industrial Bearings - Heavy Duty,6,131.22,787.32
+INV00268,2024-09-29,V020,Kappa Industries,GBP,3,ITM0068,Sensor Modules - Temperature,43,250.07,10753.01
+INV00269,2024-01-10,V006,Euro Components SA,USD,1,ITM0088,Filter Elements - HEPA,46,316.36,14552.56
+INV00269,2024-01-10,V006,Euro Components SA,USD,2,ITM0031,Cables - Industrial Grade,36,407.83,14681.88
+INV00269,2024-01-10,V006,Euro Components SA,USD,3,ITM0081,Precision Motors - DC 24V,50,446.3,22315.0
+INV00269,2024-01-10,V006,Euro Components SA,USD,4,ITM0004,Seals - Mechanical,36,120.54,4339.44
+INV00269,2024-01-10,V006,Euro Components SA,USD,5,ITM0044,Lubricants - Synthetic,85,77.26,6567.1
+INV00270,2024-09-23,V013,Alpha Logistics,USD,1,ITM0081,Plastic Housings - ABS,54,127.78,6900.12
+INV00270,2024-09-23,V013,Alpha Logistics,USD,2,ITM0020,Fasteners - Stainless Steel,40,455.77,18230.8
+INV00270,2024-09-23,V013,Alpha Logistics,USD,3,ITM0043,Insulation Material - Thermal,70,74.57,5219.9
+INV00270,2024-09-23,V013,Alpha Logistics,USD,4,ITM0084,Rubber Gaskets - High Temp,75,275.26,20644.5
+INV00270,2024-09-23,V013,Alpha Logistics,USD,5,ITM0026,Rubber Gaskets - High Temp,40,347.38,13895.2
+INV00270,2024-09-23,V013,Alpha Logistics,USD,6,ITM0068,Rubber Gaskets - High Temp,56,497.89,27881.84
+INV00270,2024-09-23,V013,Alpha Logistics,USD,7,ITM0099,Rubber Gaskets - High Temp,84,467.18,39243.12
+INV00271,2024-06-11,V006,Euro Components SA,JPY,1,ITM0072,Seals - Mechanical,93,68.01,6324.93
+INV00271,2024-06-11,V006,Euro Components SA,JPY,2,ITM0041,Rubber Gaskets - High Temp,94,24.45,2298.3
+INV00271,2024-06-11,V006,Euro Components SA,JPY,3,ITM0041,Fasteners - Stainless Steel,53,158.64,8407.92
+INV00272,2024-03-18,V009,Prime Resources LLC,JPY,1,ITM0014,Rubber Gaskets - High Temp,24,22.84,548.16
+INV00272,2024-03-18,V009,Prime Resources LLC,JPY,2,ITM0079,Gearboxes - Planetary,35,306.75,10736.25
+INV00272,2024-03-18,V009,Prime Resources LLC,JPY,3,ITM0079,Plastic Housings - ABS,77,123.77,9530.29
+INV00272,2024-03-18,V009,Prime Resources LLC,JPY,4,ITM0088,Industrial Bearings - Heavy Duty,46,48.94,2251.24
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,1,ITM0078,Power Supplies - 500W,92,328.29,30202.68
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,2,ITM0024,Lubricants - Synthetic,63,242.18,15257.34
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,3,ITM0021,Aluminum Extrusions - Custom,29,25.79,747.91
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,4,ITM0098,Industrial Bearings - Heavy Duty,35,475.6,16646.0
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,5,ITM0029,Aluminum Extrusions - Custom,97,110.24,10693.28
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,6,ITM0023,Insulation Material - Thermal,79,250.07,19755.53
+INV00273,2024-03-09,V016,Epsilon Motors,JPY,7,ITM0042,Insulation Material - Thermal,32,219.5,7024.0
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,1,ITM0093,Control Valves - Pneumatic,51,309.64,15791.64
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,2,ITM0096,Pumps - Centrifugal,77,272.72,20999.44
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,3,ITM0083,Steel Sheets - Grade A,67,63.56,4258.52
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,4,ITM0059,Steel Sheets - Grade A,32,264.16,8453.12
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,5,ITM0051,Steel Sheets - Grade A,72,199.82,14387.04
+INV00274,2024-11-07,V002,Global Materials Corp,CAD,6,ITM0098,Steel Sheets - Grade A,25,152.68,3817.0
+INV00275,2024-06-04,V013,Alpha Logistics,EUR,1,ITM0060,Copper Wire - 12 AWG,55,154.27,8484.85
+INV00275,2024-06-04,V013,Alpha Logistics,EUR,2,ITM0007,Cables - Industrial Grade,19,237.15,4505.85
+INV00275,2024-06-04,V013,Alpha Logistics,EUR,3,ITM0083,Insulation Material - Thermal,12,364.1,4369.2
+INV00275,2024-06-04,V013,Alpha Logistics,EUR,4,ITM0015,Copper Wire - 12 AWG,100,296.87,29687.0
+INV00275,2024-06-04,V013,Alpha Logistics,EUR,5,ITM0090,Seals - Mechanical,18,202.6,3646.8
+INV00276,2024-08-18,V011,Omega Chemicals,EUR,1,ITM0023,Insulation Material - Thermal,76,449.34,34149.84
+INV00276,2024-08-18,V011,Omega Chemicals,EUR,2,ITM0026,Insulation Material - Thermal,12,132.54,1590.48
+INV00276,2024-08-18,V011,Omega Chemicals,EUR,3,ITM0089,Copper Wire - 12 AWG,92,369.3,33975.6
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,1,ITM0082,Filter Elements - HEPA,11,266.67,2933.37
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,2,ITM0050,Cables - Industrial Grade,79,475.38,37555.02
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,3,ITM0049,Seals - Mechanical,49,31.51,1543.99
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,4,ITM0022,Control Valves - Pneumatic,73,436.94,31896.62
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,5,ITM0020,Copper Wire - 12 AWG,19,97.64,1855.16
+INV00277,2024-02-28,V003,TechParts Ltd,GBP,6,ITM0092,Steel Sheets - Grade A,54,160.95,8691.3
+INV00278,2024-05-27,V015,Gamma Textiles,EUR,1,ITM0016,Rubber Gaskets - High Temp,26,11.73,304.98
+INV00278,2024-05-27,V015,Gamma Textiles,EUR,2,ITM0098,Precision Motors - DC 24V,2,234.73,469.46
+INV00278,2024-05-27,V015,Gamma Textiles,EUR,3,ITM0064,Seals - Mechanical,1,307.91,307.91
+INV00278,2024-05-27,V015,Gamma Textiles,EUR,4,ITM0064,Plastic Housings - ABS,28,298.54,8359.12
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,1,ITM0057,Electronic Components - PCB,77,304.05,23411.85
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,2,ITM0032,Seals - Mechanical,36,313.69,11292.84
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,3,ITM0072,Aluminum Extrusions - Custom,7,100.57,703.99
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,4,ITM0008,Filter Elements - HEPA,5,81.23,406.15
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,5,ITM0005,Pumps - Centrifugal,78,156.24,12186.72
+INV00279,2024-08-20,V016,Epsilon Motors,GBP,6,ITM0012,Steel Sheets - Grade A,14,214.31,3000.34
+INV00280,2024-03-23,V006,Euro Components SA,GBP,1,ITM0079,Gearboxes - Planetary,74,395.78,29287.72
+INV00280,2024-03-23,V006,Euro Components SA,GBP,2,ITM0023,Insulation Material - Thermal,96,293.69,28194.24
+INV00280,2024-03-23,V006,Euro Components SA,GBP,3,ITM0005,Electronic Components - PCB,99,156.65,15508.35
+INV00280,2024-03-23,V006,Euro Components SA,GBP,4,ITM0048,Lubricants - Synthetic,9,381.64,3434.76
+INV00280,2024-03-23,V006,Euro Components SA,GBP,5,ITM0071,Electronic Components - PCB,38,240.7,9146.6
+INV00281,2024-12-21,V004,Industrial Solutions GmbH,JPY,1,ITM0043,Cables - Industrial Grade,53,267.08,14155.24
+INV00281,2024-12-21,V004,Industrial Solutions GmbH,JPY,2,ITM0090,Aluminum Extrusions - Custom,79,38.51,3042.29
+INV00281,2024-12-21,V004,Industrial Solutions GmbH,JPY,3,ITM0074,Cables - Industrial Grade,12,246.99,2963.88
+INV00281,2024-12-21,V004,Industrial Solutions GmbH,JPY,4,ITM0089,Gearboxes - Planetary,91,150.72,13715.52
+INV00281,2024-12-21,V004,Industrial Solutions GmbH,JPY,5,ITM0078,Control Valves - Pneumatic,34,267.44,9092.96
+INV00282,2024-06-30,V020,Kappa Industries,USD,1,ITM0079,Pumps - Centrifugal,64,264.66,16938.24
+INV00282,2024-06-30,V020,Kappa Industries,USD,2,ITM0081,Power Supplies - 500W,64,405.91,25978.24
+INV00282,2024-06-30,V020,Kappa Industries,USD,3,ITM0079,Plastic Housings - ABS,91,152.34,13862.94
+INV00282,2024-06-30,V020,Kappa Industries,USD,4,ITM0025,Industrial Bearings - Heavy Duty,16,21.75,348.0
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,1,ITM0054,Fasteners - Stainless Steel,6,173.56,1041.36
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,2,ITM0072,Aluminum Extrusions - Custom,2,323.9,647.8
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,3,ITM0089,Sensor Modules - Temperature,33,397.2,13107.6
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,4,ITM0040,Sensor Modules - Temperature,65,279.5,18167.5
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,5,ITM0099,Industrial Bearings - Heavy Duty,15,346.06,5190.9
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,6,ITM0044,Lubricants - Synthetic,93,288.77,26855.61
+INV00283,2024-04-16,V004,Industrial Solutions GmbH,USD,7,ITM0004,Copper Wire - 12 AWG,25,171.95,4298.75
+INV00284,2024-12-10,V011,Omega Chemicals,USD,1,ITM0061,Steel Sheets - Grade A,83,76.52,6351.16
+INV00284,2024-12-10,V011,Omega Chemicals,USD,2,ITM0020,Insulation Material - Thermal,69,449.01,30981.69
+INV00284,2024-12-10,V011,Omega Chemicals,USD,3,ITM0060,Fasteners - Stainless Steel,96,37.45,3595.2
+INV00284,2024-12-10,V011,Omega Chemicals,USD,4,ITM0067,Sensor Modules - Temperature,73,365.23,26661.79
+INV00284,2024-12-10,V011,Omega Chemicals,USD,5,ITM0041,Seals - Mechanical,69,19.17,1322.73
+INV00284,2024-12-10,V011,Omega Chemicals,USD,6,ITM0074,Control Valves - Pneumatic,46,42.44,1952.24
+INV00285,2024-05-23,V005,Pacific Trading Co,EUR,1,ITM0044,Lubricants - Synthetic,81,271.79,22014.99
+INV00285,2024-05-23,V005,Pacific Trading Co,EUR,2,ITM0022,Pumps - Centrifugal,78,200.89,15669.42
+INV00285,2024-05-23,V005,Pacific Trading Co,EUR,3,ITM0077,Hydraulic Fittings - Standard,97,161.06,15622.82
+INV00286,2024-12-29,V011,Omega Chemicals,USD,1,ITM0035,Fasteners - Stainless Steel,12,253.56,3042.72
+INV00286,2024-12-29,V011,Omega Chemicals,USD,2,ITM0031,Filter Elements - HEPA,58,416.43,24152.94
+INV00286,2024-12-29,V011,Omega Chemicals,USD,3,ITM0039,Aluminum Extrusions - Custom,68,158.14,10753.52
+INV00287,2024-07-10,V004,Industrial Solutions GmbH,EUR,1,ITM0100,Aluminum Extrusions - Custom,12,227.45,2729.4
+INV00287,2024-07-10,V004,Industrial Solutions GmbH,EUR,2,ITM0004,Power Supplies - 500W,65,85.5,5557.5
+INV00287,2024-07-10,V004,Industrial Solutions GmbH,EUR,3,ITM0044,Power Supplies - 500W,94,438.2,41190.8
+INV00288,2024-06-16,V010,Delta Electronics,EUR,1,ITM0099,Hydraulic Fittings - Standard,67,341.59,22886.53
+INV00288,2024-06-16,V010,Delta Electronics,EUR,2,ITM0017,Aluminum Extrusions - Custom,93,27.91,2595.63
+INV00288,2024-06-16,V010,Delta Electronics,EUR,3,ITM0050,Cables - Industrial Grade,15,12.01,180.15
+INV00288,2024-06-16,V010,Delta Electronics,EUR,4,ITM0006,Gearboxes - Planetary,12,173.31,2079.72
+INV00289,2024-02-22,V002,Global Materials Corp,USD,1,ITM0099,Sensor Modules - Temperature,3,293.0,879.0
+INV00289,2024-02-22,V002,Global Materials Corp,USD,2,ITM0040,Aluminum Extrusions - Custom,42,108.27,4547.34
+INV00289,2024-02-22,V002,Global Materials Corp,USD,3,ITM0037,Precision Motors - DC 24V,69,166.38,11480.22
+INV00289,2024-02-22,V002,Global Materials Corp,USD,4,ITM0057,Hydraulic Fittings - Standard,35,83.17,2910.95
+INV00289,2024-02-22,V002,Global Materials Corp,USD,5,ITM0036,Hydraulic Fittings - Standard,2,479.57,959.14
+INV00289,2024-02-22,V002,Global Materials Corp,USD,6,ITM0072,Cables - Industrial Grade,14,111.22,1557.08
+INV00289,2024-02-22,V002,Global Materials Corp,USD,7,ITM0045,Seals - Mechanical,41,142.82,5855.62
+INV00290,2024-10-20,V010,Delta Electronics,EUR,1,ITM0022,Electronic Components - PCB,40,310.5,12420.0
+INV00290,2024-10-20,V010,Delta Electronics,EUR,2,ITM0044,Seals - Mechanical,57,34.86,1987.02
+INV00290,2024-10-20,V010,Delta Electronics,EUR,3,ITM0004,Power Supplies - 500W,87,34.72,3020.64
+INV00290,2024-10-20,V010,Delta Electronics,EUR,4,ITM0050,Steel Sheets - Grade A,12,218.97,2627.64
+INV00291,2024-12-26,V006,Euro Components SA,USD,1,ITM0076,Insulation Material - Thermal,79,184.26,14556.54
+INV00291,2024-12-26,V006,Euro Components SA,USD,2,ITM0043,Aluminum Extrusions - Custom,92,381.62,35109.04
+INV00291,2024-12-26,V006,Euro Components SA,USD,3,ITM0069,Electronic Components - PCB,97,384.57,37303.29
+INV00291,2024-12-26,V006,Euro Components SA,USD,4,ITM0073,Rubber Gaskets - High Temp,12,408.3,4899.6
+INV00291,2024-12-26,V006,Euro Components SA,USD,5,ITM0090,Insulation Material - Thermal,13,233.24,3032.12
+INV00291,2024-12-26,V006,Euro Components SA,USD,6,ITM0088,Insulation Material - Thermal,61,123.53,7535.33
+INV00291,2024-12-26,V006,Euro Components SA,USD,7,ITM0029,Rubber Gaskets - High Temp,79,136.45,10779.55
+INV00292,2024-07-19,V012,Sigma Steel Works,USD,1,ITM0090,Control Valves - Pneumatic,42,232.11,9748.62
+INV00292,2024-07-19,V012,Sigma Steel Works,USD,2,ITM0004,Electronic Components - PCB,61,65.31,3983.91
+INV00292,2024-07-19,V012,Sigma Steel Works,USD,3,ITM0062,Insulation Material - Thermal,22,148.31,3262.82
+INV00292,2024-07-19,V012,Sigma Steel Works,USD,4,ITM0045,Gearboxes - Planetary,74,72.42,5359.08
+INV00293,2024-07-26,V004,Industrial Solutions GmbH,JPY,1,ITM0042,Seals - Mechanical,84,44.75,3759.0
+INV00293,2024-07-26,V004,Industrial Solutions GmbH,JPY,2,ITM0039,Seals - Mechanical,60,206.4,12384.0
+INV00293,2024-07-26,V004,Industrial Solutions GmbH,JPY,3,ITM0053,Plastic Housings - ABS,80,129.41,10352.8
+INV00294,2024-09-03,V006,Euro Components SA,USD,1,ITM0009,Control Valves - Pneumatic,27,408.82,11038.14
+INV00294,2024-09-03,V006,Euro Components SA,USD,2,ITM0076,Fasteners - Stainless Steel,56,287.93,16124.08
+INV00294,2024-09-03,V006,Euro Components SA,USD,3,ITM0044,Seals - Mechanical,89,125.72,11189.08
+INV00294,2024-09-03,V006,Euro Components SA,USD,4,ITM0085,Electronic Components - PCB,95,466.12,44281.4
+INV00294,2024-09-03,V006,Euro Components SA,USD,5,ITM0074,Power Supplies - 500W,15,300.16,4502.4
+INV00294,2024-09-03,V006,Euro Components SA,USD,6,ITM0060,Control Valves - Pneumatic,72,57.85,4165.2
+INV00295,2024-03-31,V015,Gamma Textiles,USD,1,ITM0052,Electronic Components - PCB,77,63.28,4872.56
+INV00295,2024-03-31,V015,Gamma Textiles,USD,2,ITM0077,Lubricants - Synthetic,42,252.2,10592.4
+INV00295,2024-03-31,V015,Gamma Textiles,USD,3,ITM0085,Steel Sheets - Grade A,12,116.63,1399.56
+INV00295,2024-03-31,V015,Gamma Textiles,USD,4,ITM0018,Pumps - Centrifugal,97,321.71,31205.87
+INV00295,2024-03-31,V015,Gamma Textiles,USD,5,ITM0001,Rubber Gaskets - High Temp,85,83.12,7065.2
+INV00296,2024-05-29,V018,Theta Instruments,EUR,1,ITM0079,Pumps - Centrifugal,58,105.88,6141.04
+INV00296,2024-05-29,V018,Theta Instruments,EUR,2,ITM0088,Control Valves - Pneumatic,39,289.44,11288.16
+INV00296,2024-05-29,V018,Theta Instruments,EUR,3,ITM0087,Sensor Modules - Temperature,56,361.72,20256.32
+INV00296,2024-05-29,V018,Theta Instruments,EUR,4,ITM0045,Electronic Components - PCB,75,13.98,1048.5
+INV00296,2024-05-29,V018,Theta Instruments,EUR,5,ITM0066,Lubricants - Synthetic,17,427.73,7271.41
+INV00296,2024-05-29,V018,Theta Instruments,EUR,6,ITM0008,Filter Elements - HEPA,71,484.27,34383.17
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,1,ITM0046,Hydraulic Fittings - Standard,37,434.18,16064.66
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,2,ITM0031,Fasteners - Stainless Steel,90,299.18,26926.2
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,3,ITM0081,Control Valves - Pneumatic,92,197.57,18176.44
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,4,ITM0049,Fasteners - Stainless Steel,70,113.5,7945.0
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,5,ITM0023,Power Supplies - 500W,18,102.23,1840.14
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,6,ITM0050,Filter Elements - HEPA,54,85.59,4621.86
+INV00297,2024-12-26,V001,Acme Supplies Inc,GBP,7,ITM0086,Rubber Gaskets - High Temp,18,15.69,282.42
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,1,ITM0085,Fasteners - Stainless Steel,18,51.49,926.82
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,2,ITM0083,Fasteners - Stainless Steel,59,447.86,26423.74
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,3,ITM0090,Gearboxes - Planetary,55,315.39,17346.45
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,4,ITM0059,Cables - Industrial Grade,55,280.5,15427.5
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,5,ITM0058,Lubricants - Synthetic,46,120.61,5548.06
+INV00298,2024-03-14,V001,Acme Supplies Inc,USD,6,ITM0055,Gearboxes - Planetary,1,293.19,293.19
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,1,ITM0035,Fasteners - Stainless Steel,70,292.41,20468.7
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,2,ITM0005,Steel Sheets - Grade A,73,246.8,18016.4
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,3,ITM0048,Hydraulic Fittings - Standard,75,245.95,18446.25
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,4,ITM0089,Electronic Components - PCB,19,367.79,6988.01
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,5,ITM0068,Precision Motors - DC 24V,60,263.31,15798.6
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,6,ITM0067,Gearboxes - Planetary,12,130.16,1561.92
+INV00299,2024-12-30,V008,Atlas Manufacturing,EUR,7,ITM0081,Electronic Components - PCB,88,320.51,28204.88
+INV00300,2024-06-08,V019,Iota Supplies,USD,1,ITM0007,Control Valves - Pneumatic,69,391.48,27012.12
+INV00300,2024-06-08,V019,Iota Supplies,USD,2,ITM0061,Insulation Material - Thermal,66,453.97,29962.02
+INV00300,2024-06-08,V019,Iota Supplies,USD,3,ITM0074,Control Valves - Pneumatic,54,182.93,9878.22
+INV00300,2024-06-08,V019,Iota Supplies,USD,4,ITM0038,Sensor Modules - Temperature,22,27.31,600.82
+INV00300,2024-06-08,V019,Iota Supplies,USD,5,ITM0077,Sensor Modules - Temperature,94,394.66,37098.04
+INV00300,2024-06-08,V019,Iota Supplies,USD,6,ITM0034,Steel Sheets - Grade A,81,241.85,19589.85
+INV00300,2024-06-08,V019,Iota Supplies,USD,7,ITM0022,Pumps - Centrifugal,7,331.6,2321.2
